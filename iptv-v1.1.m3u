@@ -71,80 +71,36 @@ http://mu03ye.wanicelife.com:8880/live/YALM4649/y6q3fhltq/55319.m3u8
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeebangla
 #EXTINF: -1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures HD
-http://mytv.fun:8080/2df6e71oil/90i9wr21j8/10622
-#EXTINF: -1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
-http://103.205.133.18/hls/andpicture.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png" group-title="Hindi", &Pictures
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-pictures
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png" group-title="Hindi", &Pictures HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
-http://103.205.133.48/hls/andtv.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo_378606665.png" group-title="Hindi", &TV HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gSXkPye.png" group-title="Hindi", Bfilx Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_web/1170x658withlog_2022520414.png" group-title="Hindi", Big Magic
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-bigmagic_1786965389
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-iSH8Wk-Uz7U/YOv6EgndZwI/AAAAAAAAAXQ/CRu7AAz_X3I8Wab7bXNiPenmzcuai7-qACLcBGAsYHQ/s200/images%2B%252813%2529%25281%2529.jpeg" group-title="Hindi", BIXFLIX MOVIES (IN)
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-VnkK19wC3zc/YKNxsH4bWdI/AAAAAAAAA3M/CfWHtrwKZe0xQX-3rvnvV16gW-Bpn_WrQCLcBGAsYHQ/w200-h191/PicsArt_05-18-01.18.46.jpg" group-title="Hindi", COLORS CINEPLEX (IN)
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-vrE2qLPiNkc/YP_tK49ei9I/AAAAAAAAAro/uSoOD5CeZWU_KQpInK4ZI7kWeawZCS0aQCLcBGAsYHQ/s200/download.jpeg" group-title="Hindi", COLORS CINEPLEX HD (IN)
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
-#EXTINF: -1 group-title="Hindi", Colors
-http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg" group-title="Hindi", COLORS HD (IN)
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-C3WwYg_Dmo0/YNPRQd7VJuI/AAAAAAAAAA4/6n_yNQ2fMF87cDNoHWOaFMsL_RbVvn3YgCLcBGAsYHQ/s320/PicsArt_06-23-08.53.49.jpg" group-title="Hindi", COLORS HD (IN)
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors Hindi
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi", MBC Bollywood
-http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/srAUg8f.png" group-title="Hindi", MBC Bollywood (2)
-http://mygoodstream.pw/proxy.php/https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/6grWgft.png" group-title="Hindi", Rishtey Cineplex HD
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Hindi", SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Hindi", SONY HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp" group-title="Hindi", SONY HD (IN)
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp" group-title="Hindi", SONY HD (IN)
 http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="Hindi", SONY TV HD
-http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Hindi", SONY MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF: -1 group-title="Hindi", SONY MAX (IN)
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi", SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Hindi", SONY MAX2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Hindi", SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-X4BHuDdG6N4/YKWxH-30awI/AAAAAAAAA9A/mtnwTDVYx3kpfc5W73xOjgAABQXHNEeGQCLcBGAsYHQ/w200-h200/5d89baa6c85b7228779305.jpg" group-title="Hindi", SONY SAB (IN)
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
-#EXTINF: -1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Hindi", SONY WAH
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
-http://103.153.39.34:8000/play/a06p/index.m3u8
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png" group-title="Hindi", STAR MOVIES HD (IN)
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://103.205.133.18/hls/chsp.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png" group-title="Hindi", STAR WORLD HD (IN)
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/TLC-HD.jpg" group-title="Hindi", TLC HD
@@ -153,48 +109,26 @@ http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png" group-title="Hindi", Zee Action
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
-#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-YeMv2_ePRlU/YP_zkL_N5rI/AAAAAAAAAsY/ZTBuKVAs0LoCaVLxccquq1fcQWLpuqCngCLcBGAsYHQ/s200/09zeeactionzeeaction.png" group-title="Hindi", ZEE ACTION (IN)
-http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png" group-title="Hindi", Zee Anmol
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeanmol
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi", Zee Anmol Cinema
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeanmolcinema
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png" group-title="Hindi", Zee Bollywood
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeclassic
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi", Zee Bolywood
-http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png" group-title="Hindi", Zee Café HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecafehd
-#EXTINF: -1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="Hindi", Zee Cafe HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png" group-title="Hindi", Zee Cinema
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinema
-#EXTINF: -1 group-title="Hindi", ZEE CINEMA (ME)
-https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png" group-title="Hindi", Zee Cinema HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemahd
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="Hindi", ZEE CINEMA HD
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD (3)
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png" group-title="Hindi", Zee Classic
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-176
-#EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png" group-title="Hindi", Zee Talkies HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetalkies
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png" group-title="Hindi", Zee TV
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetv
-#EXTINF: -1 group-title="Hindi", Zee TV (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF: -1 group-title="Hindi", ZEE TV (ASIA)
-https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog_1554775145.png" group-title="Hindi", Zee TV HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
-#EXTINF: -1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="Hindi", ZEE TV HD
-http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="Sports", Astro Cricket
