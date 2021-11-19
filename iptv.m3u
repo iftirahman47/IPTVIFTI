@@ -1031,3 +1031,81 @@ https://last.gcdn.co/IND441/index.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF: -1 group-title="Extra", Shomoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF: -1 tvg-id="starjalshahd.in" tvg-name="Star Jalsa HD" tvg-logo="https://i.imgur.com/JAWXQA5.png" group-title="Unchecked", Star Jalsa HD
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/64405.m3u8
+#EXTINF: -1 tvg-id="starjalsha.in" tvg-name="Star Jalsa" tvg-logo="https://i.imgur.com/JAWXQA5.png" group-title="Unchecked", Star Jalsa
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/17751.m3u8
+#EXTINF: -1 tvg-id="starjalshahd.in" tvg-name="Star Jalsa Movies HD" tvg-logo="https://i.imgur.com/Vx1g0ZP.png" group-title="Unchecked", Star Jalsa Movies HD
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/64406.m3u8
+#EXTINF: -1 tvg-id="zeebanglacinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/LbdDyta.png" group-title="Unchecked", Zee Bangla Cinema
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20589.m3u8
+#EXTINF: -1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla HD" tvg-logo="https://i.imgur.com/LbdDyta.png" group-title="Unchecked", Zee Bangla HD
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/17753.m3u8
+#EXTINF: -1 tvg-id="bbc4.uk" tvg-name="T Sports HD" tvg-logo="https://i.imgur.com/Twr" group-title="Unchecked", T Sports HD
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/25270.m3u8
+#EXTINF: -1 tvg-id="asianethd.in" tvg-name="Asian Tv" tvg-logo="https://i.imgur.com/17yNqXi.png" group-title="Unchecked", Asian Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12504.m3u8
+#EXTINF: -1 tvg-id="atnbangla.uk" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/exM3vmV.png" group-title="Unchecked", ATN Bangla
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12536.m3u8
+#EXTINF: -1 tvg-name="ATN News" tvg-logo="https://i.imgur.com/sj2JXUL.png" group-title="Unchecked", ATN News
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12505.m3u8
+#EXTINF: -1 tvg-id="ruposhi.bangla.in" tvg-name="Bangla Tv" tvg-logo="https://i.imgur.com/I9ylE6A.png" group-title="Unchecked", Bangla Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20586.m3u8
+#EXTINF: -1 tvg-id="bangla.vision.in" tvg-name="Bangla Vision" tvg-logo="https://i.imgur.com/3xMURzq.png" group-title="Unchecked", Bangla Vision
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12507.m3u8
+#EXTINF: -1 tvg-id="boishakhi.in" tvg-name="Boisakhi" tvg-logo="https://i.imgur.com/GiDsFM0.png" group-title="Unchecked", Boisakhi
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12508.m3u8
+#EXTINF: -1 tvg-name="Channel 24" tvg-logo="https://i.imgur.com/wR51Eov.png" group-title="Unchecked", Channel 24
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12509.m3u8
+#EXTINF: -1 tvg-id="news9.in" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/0heke7I.png" group-title="Unchecked", Channel 9
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12510.m3u8
+#EXTINF: -1 tvg-id="channel.i.in" tvg-name="Channel i" tvg-logo="https://i.imgur.com/DrLdtMK.png" group-title="Unchecked", Channel i
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20584.m3u8
+#EXTINF: -1 tvg-name="Channel S" tvg-logo="https://i.imgur.com/ZWgM3vt.png" group-title="Unchecked", Channel S
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20587.m3u8
+#EXTINF: -1 tvg-id="colorsbangla.in" tvg-name="Colors Bangla Tv" tvg-logo="https://i.imgur.com/kvj1IGw.png" group-title="Unchecked", Colors Bangla Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20588.m3u8
+#EXTINF: -1 tvg-name="Dbc News" tvg-logo="https://i.imgur.com/i9m6a5Z.png" group-title="Unchecked", Dbc News
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12513.m3u8
+#EXTINF: -1 tvg-name="Deepto Tv" tvg-logo="https://i.imgur.com/VjCWxEZ.png" group-title="Unchecked", Deepto Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12514.m3u8
+#EXTINF: -1 tvg-id="desh.in" tvg-name="Desh Tv" tvg-logo="https://i.imgur.com/ZTNEl9j.png" group-title="Unchecked", Desh Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12515.m3u8
+#EXTINF: -1 tvg-id="dhoom.music.in" tvg-name="Dhoom Music" tvg-logo="https://i.imgur.com/yEFtnFa.png" group-title="Unchecked", Dhoom Music
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12537.m3u8
+#EXTINF: -1 tvg-name="Ekattor Tv" tvg-logo="https://i.imgur.com/7QOl6lT.png" group-title="Unchecked", Ekattor Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12516.m3u8
+#EXTINF: -1 tvg-name="Ekushey Tv" tvg-logo="https://i.imgur.com/9E2EjMa.png" group-title="Unchecked", Ekushey Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12517.m3u8
+#EXTINF: -1 tvg-name="G Tv" tvg-logo="https://i.imgur.com/kYN4dlA.jpg" group-title="Unchecked", G Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/20585.m3u8
+#EXTINF: -1 tvg-id="gaan.bangla.in" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/p36UYdQ.png" group-title="Unchecked", Gaan Bangla
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12518.m3u8
+#EXTINF: -1 tvg-name="Gazi Tv" tvg-logo="https://i.imgur.com/KbsII5c.png" group-title="Unchecked", Gazi Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12519.m3u8
+#EXTINF: -1 tvg-name="Independent Tv" tvg-logo="https://i.imgur.com/pqVeWmf.png" group-title="Unchecked", Independent Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12520.m3u8
+#EXTINF: -1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/PlKRj4W.png" group-title="Unchecked", Jalsha Movies
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12538.m3u8
+#EXTINF: -1 tvg-name="Jamuna Tv" tvg-logo="https://i.imgur.com/5MjEnCs.png" group-title="Unchecked", Jamuna Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12522.m3u8
+#EXTINF: -1 tvg-id="maasranga.in" tvg-name="Maasranga Tv" tvg-logo="https://i.imgur.com/MHLJ0NS.jpg" group-title="Unchecked", Maasranga Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12502.m3u8
+#EXTINF: -1 tvg-name="Mohona Tv" tvg-logo="https://i.imgur.com/UDwifHL.png" group-title="Unchecked", Mohona Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12523.m3u8
+#EXTINF: -1 tvg-name="My Tv" tvg-logo="https://i.imgur.com/X4b2zJJ.png" group-title="Unchecked", My Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12525.m3u8
+#EXTINF: -1 tvg-name="Nagorik Tv" tvg-logo="https://i.imgur.com/eUsBHVn.jpg" group-title="Unchecked", Nagorik Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12503.m3u8
+#EXTINF: -1 tvg-name="Natok Bangla" tvg-logo="https://i.imgur.com/nDonXhN.png" group-title="Unchecked", Natok Bangla
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12524.m3u8
+#EXTINF: -1 tvg-id="news24.in" tvg-name="News 24 HD" tvg-logo="https://i.imgur.com/peqI73c.png" group-title="Unchecked", News 24 HD
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12526.m3u8
+#EXTINF: -1 tvg-id="ntvnews.in" tvg-name="NTV" tvg-logo="https://i.imgur.com/TqrjJp1.png" group-title="Unchecked", NTV
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12527.m3u8
+#EXTINF: -1 tvg-name="R Tv" tvg-logo="https://i.imgur.com/8qYmB5G.jpg" group-title="Unchecked", R Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12529.m3u8
+#EXTINF: -1 tvg-id="vissatv.in" tvg-name="SA Tv" tvg-logo="https://i.imgur.com/Z7QMxoj.png" group-title="Unchecked", SA Tv
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12530.m3u8
+#EXTINF: -1 tvg-id="somoy.in" tvg-name="Somoy News" tvg-logo="https://i.imgur.com/PW2m4F4.png" group-title="Unchecked", Somoy News
+http://ztvuk.com:80/live/y993slzLSu/OmKCdASQJI/12531.m3u8
