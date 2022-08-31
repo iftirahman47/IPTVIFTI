@@ -2,5 +2,9 @@
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png", Star Sports HD
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png", Star Sports HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", GTV
 https://www.youtube.com/watch?v=vSHelsYpvkc
+#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/jn12e7Nlat38L1l9B4z7bT57hW7_-KqMOzJ67q-yIRMumZjUNJjZClVjznfMkbVrDLBT", BTV
+http://103.135.133.2/hls/stream1.m3u8
