@@ -17,11 +17,11 @@ http://test-otv2.ftpbd.net/streams/115/index.m3u8
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/py9w2fwLZBBnE1HewN4EKhkUZ4RUqRai5zs8IoiCn3MV8SsKt_d89nY_LgpL2rh1sVNzDADXj_eXuTsYm9yROw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1, TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF: -1, Sony Sports 2
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%202.png", Sony Sports 2
 http://test-otv2.ftpbd.net/streams/109/index.m3u8
-#EXTINF: -1, Star sports 1 HD
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", Star sports 1 HD
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-#EXTINF: -1, Sony Sports 1
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%201.png", Sony Sports 1
 http://test-otv2.ftpbd.net/streams/111/index.m3u8
 
 
