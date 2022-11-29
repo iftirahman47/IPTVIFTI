@@ -30,8 +30,11 @@ http://test-otv2.ftpbd.net/streams/110/index.m3u8
 #EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%201.png", Sony Sports 1
 http://test-otv2.ftpbd.net/streams/111/index.m3u8
 
-#EXTINF:-1 , TSports
+#EXTINF:-1, TSports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1, Gazi TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+
 #EXTINF:-1 ,RTK 1 FIFA World Cup ⚽️
 http://146.59.19.1/5002/mpegts?
 #EXTINF:-1 ,FIFA World Cup Japan ⚽️
