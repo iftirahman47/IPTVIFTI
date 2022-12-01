@@ -1,53 +1,53 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png", FIFA (Server)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Sports", FIFA (Server)
 http://test-otv1.ftpbd.net/streams/107/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png", FIFA (Server 2)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Sports", FIFA (Server 2)
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
 #EXTINF: -1, GTV HD
 http://103.127.93.82:8234/gtv_640/tracks-v1a1/mono.m3u8?token=ZrXwqGqN8lN-l0
-#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA Match 1 (Toffee HD)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Sports", FIFA Match 1 (Toffee HD)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA Match 1 (Toffee)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Sports", FIFA Match 1 (Toffee)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
-#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA Match 2 (Toffee HD)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Sports", FIFA Match 2 (Toffee HD)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA Match 2 (Toffee)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Sports", FIFA Match 2 (Toffee)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png", Star Sports HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports", Star Sports HD
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
-#EXTINF: -1, TSports
+#EXTINF: -1 group-title="Sports", TSports
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
-#EXTINF: -1, GTV
+#EXTINF: -1 group-title="Sports", GTV
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
-#EXTINF: -1, Fox Cricket
+#EXTINF: -1 group-title="Sports", Fox Cricket
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/py9w2fwLZBBnE1HewN4EKhkUZ4RUqRai5zs8IoiCn3MV8SsKt_d89nY_LgpL2rh1sVNzDADXj_eXuTsYm9yROw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF: -1, TyC Sports
+#EXTINF: -1 group-title="Sports", TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%202.png", Sony Sports 2
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%202.png" group-title="Sports", Sony Sports 2
 http://test-otv2.ftpbd.net/streams/109/index.m3u8
-#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png", Star sports 1 HD
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/start%20sports%201%20HD.png" group-title="Sports", Star sports 1 HD
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%201.png", Sony Sports 1
+#EXTINF: -1 tvg-logo="http://test-otv2.ftpbd.net/channel-logo/Sony%20Sports%201.png"group-title="Sports", Sony Sports 1
 http://test-otv2.ftpbd.net/streams/111/index.m3u8
 
-#EXTINF:-1, TSports
+#EXTINF:-1 group-title="Sports", TSports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1, Gazi TV
+#EXTINF:-1 group-title="Sports", Gazi TV
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 
-#EXTINF:-1 ,RTK 1 FIFA World Cup ⚽️
+#EXTINF:-1 group-title="Sports", RTK 1 FIFA World Cup ⚽️
 http://146.59.19.1/5002/mpegts?
-#EXTINF:-1 ,FIFA World Cup Japan ⚽️
+#EXTINF:-1 group-title="Sports", FIFA World Cup Japan ⚽️
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 ,SPORTS TV
+#EXTINF:-1 group-title="Sports", SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,TURKMENISTAN SPORTS 🇹🇷
+#EXTINF:-1 group-title="Sports", TURKMENISTAN SPORTS 🇹🇷
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,TNT.SPORTS 2
+#EXTINF:-1 group-title="Sports", TNT.SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
-#EXTINF:-1 ,SPORTS
+#EXTINF:-1 group-title="Sports", SPORTS
 http://halowtest.fun:8089/Halowtv/KurdieTansport/index.m3u8
-#EXTINF:-1 , TSN1 Auto
+#EXTINF:-1 group-title="Sports", TSN1 Auto
 https://murthyneeraj231.s3.amazonaws.com/worldcup.m3u8
 
 
