@@ -3,6 +3,8 @@
 http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Sports", FIFA (Server 2)
 http://test-otv2.ftpbd.net/streams/107/index.m3u8
+#EXTINF: -1 group-title="Sports", TSports
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF: -1, GTV HD
 http://103.127.93.82:8234/gtv_640/tracks-v1a1/mono.m3u8?token=ZrXwqGqN8lN-l0
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png" group-title="Sports", FIFA Match 1 (Toffee HD)
@@ -15,8 +17,6 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="Sports", Star Sports HD
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
-#EXTINF: -1 group-title="Sports", TSports
-http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF: -1 group-title="Sports", GTV
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF: -1 group-title="Sports", Fox Cricket
