@@ -37,54 +37,54 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA19S3j.png" group-title="Sports",AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Toffee PAID (Auto)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Toffee PAID (Auto)
 https://sabbirhasan.pythonanywhere.com/worldcup/auto-paid
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",MUTV (540p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",MUTV (540p)
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Sports 18 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Sports 18 (1080p)
 http://eu.majes-line.co/play/live.php?mac=00:1A:79:c1:f9:5c&stream=811763&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",ITV1 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",ITV1 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=805277&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 1 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 1 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807993&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 1 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 1 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807990&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 2 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 2 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807987&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 2 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 2 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807986&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 3 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 3 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807983&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 3 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 3 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807982&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 4 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 4 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807979&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 4 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 4 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=807978&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 5 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 5 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809361&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 5 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 5 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809363&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 6 (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 6 (1080p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809357&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Bein Sports MAX 6 (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Bein Sports MAX 6 (720p)
 http://eu.majes-line.co:80/play/live.php?mac=00:1A:79:c1:f9:5c&stream=809359&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",A
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",A
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",B
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",B
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",TRT1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",TRT1
 http://ac.traveliptv.nl:80/ibrahimturk/v7Nv6vNvdk/16
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Beinsports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Beinsports 2
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Beinsports 2 Max
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Beinsports 2 Max
 http://fancytv.ddns.net:25461/fancynet/fancytv/1758
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",Beinsports 1 Max
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",Beinsports 1 Max
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/117176.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpghttps://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa", TSports (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpghttps://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports", TSports (720p)
 http://dotfli.live/s-1-tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Fifa",TSports (540p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg" group-title="Sports",TSports (540p)
 http://208.86.19.13:81/9055.stream/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",Sony Max
@@ -131,7 +131,7 @@ https://tv.bdflix.xyz/DW/tracks-v1a1/mono.m3u8
 https://tv.bdflix.xyz/DBC_News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Channel 24
 https://tv.bdflix.xyz/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Documentory",Sony Earth
+#EXTINF:-1 group-title="documentary",Sony Earth
 https://tv.bdflix.xyz/Sony_Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla",Mohona TV
 https://tv.bdflix.xyz/Mohona-TV/tracks-v1a1/mono.m3u8
@@ -295,9 +295,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi",MTV Ch-1
 http://jo123.biz/jweb/m3u8.php?c=MTV_Beats_HD&=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/9xm.jpg" group-title="Hindi",9xm Ch-1
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/9xm.jpg" group-title="Music",9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/9xm.jpg" group-title="Hindi",9xm Ch-2
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/9xm.jpg" group-title="Music",9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -359,11 +359,10 @@ http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="Music",Music India
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",ICC_9XM
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 group-title="Random",C
+#EXTINF:-1 group-title="English",1
 https://moviesphere-samsung-samsungus.amagi.tv/playlistwebvtt.m3u8
 #EXTINF:-1 group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=NBqLGH1RpVs2I4pPczdmrDQWSxz0Jp
-
