@@ -1,26 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIFA (Server)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Sports",FIFA (Server)
-http://test-otv1.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIFA (Server 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Sports",FIFA (Server 2)
-http://test-otv2.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSports" tvg-logo="" group-title="Sports",TSports
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="" group-title="Sports",GTV
 http://test-otv2.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sports 18" tvg-logo="" group-title="Sports",Sports 18
-http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amar Bangla" tvg-logo="http://127.0.0.1/" group-title="Bangla",Amar Bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda Tv Ch-2" tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangla",Ananda Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ananda Tv" tvg-logo="https://s6.gifyu.com/images/Anando-TV.jpg" group-title="Bangla",Ananda Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atn Bangla Ch-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",Atn Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Atn Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",Atn Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla 21 Ch-4" tvg-logo="https://s6.gifyu.com/images/bangla-21.jpg" group-title="Bangla",Bangla 21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla 21" tvg-logo="https://s6.gifyu.com/images/bangla-21.jpg" group-title="Bangla",Bangla 21
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Tv Ch-1" tvg-logo="https://s6.gifyu.com/images/bangla-tv.jpg" group-title="Bangla",Bangla Tv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision Ch-1" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
@@ -55,7 +46,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv Ch-1" tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",Rtv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="Bangla",Ekattor TV
+http://test-otv2.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 group-title="Bangla",Gazi TV
+http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy News Ch-2" tvg-logo="https://s6.gifyu.com/images/somoy7f08d03af0336af7.png" group-title="Bangla",Somoy News
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLDMINES" tvg-logo="" group-title="Hindi",GOLDMINES
@@ -78,3 +72,4 @@ http://starshare.org:8080/live/gxc733/sxk877/18456.m3u8
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=225747&extension=ts&play_token=gpVtHin114
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO BANGLA" tvg-logo="" group-title="Ungrouped",NAT GEO BANGLA
 http://mag.x-iptv.live:80/play/live.php?mac=00:1a:79:94:62:81&stream=282665&extension=ts&play_token=5jiNGGBeNd
+
