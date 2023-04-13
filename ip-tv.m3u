@@ -1,101 +1,95 @@
 #EXTM3U
 
-#BANGLA CHANNELS -------------------------------------------------------------------
+#JAGO CHANNELS -------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla",Atn Bangla
+#EXTINF:-1 group-title="Bangla", Atn Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision
+#EXTINF:-1 group-title="Bangla", BanglaVision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="Bangla",Boishakhi Plus
+#EXTINF:-1 group-title="Bangla", Boishakhi Plus
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla",Boishakhi Tv
+#EXTINF:-1 group-title="Bangla", Boishakhi Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangla",Btv World
+#EXTINF:-1 group-title="Bangla", Btv World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="Bangla",Channel 24
+#EXTINF:-1 group-title="Bangla", Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/jamuna21bdfc3edba3ad6f.png" group-title="Bangla",Jamuna Tv
+#EXTINF:-1 group-title="Bangla", Jamuna Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="Bangla",News 24
+#EXTINF:-1 group-title="Bangla", News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla",Rtv
+#EXTINF:-1 group-title="Bangla", Rtv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla",Ekattor TV
-http://test-otv2.ftpbd.net/streams/114/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/somoy7f08d03af0336af7.png" group-title="Bangla",Somoy News
+#EXTINF:-1 group-title="Bangla", Somoy TV
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Music",Mtv
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
 
 #DISCOVERY CHANNELS ---------------------------------------------------------------
 
-#EXTINF:-1 group-title="Discovery", Discovery Channel
+#EXTINF:-1 group-title="English", Discovery Channel
 https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8
 
-#EXTINF:-1 group-title="Discovery", Discovery Science
+#EXTINF:-1 group-title="English", Discovery Science
 https://gdlmovies.tech/Discovery+/api/Discovery_Science.m3u8
 
-#EXTINF:-1 group-title="Discovery", Animal Planet
+#EXTINF:-1 group-title="English", Animal Planet
 https://gdlmovies.tech/Discovery+/api/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="Discovery", TLC
+#EXTINF:-1 group-title="English", TLC
 https://gdlmovies.tech/Discovery+/api/TLC.m3u8
 
-#EXTINF:-1 group-title="Discovery", Eurosport
+#EXTINF:-1 group-title="Sports", Eurosport
 https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
 
-#EXTINF:-1 group-title="Discovery", Discovery Kid
+#EXTINF:-1 group-title="English", Discovery Kid
 https://gdlmovies.tech/Discovery+/api/Discovery_Kids.m3u8
 
 #SONY CHANNELS -------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Sony", Sony Set HD
+#EXTINF:-1 group-title="Hindi", Sony Set HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Pix HD
+#EXTINF:-1 group-title="Hindi", Sony Pix HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Max HD
+#EXTINF:-1 group-title="Hindi", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Max
+#EXTINF:-1 group-title="Hindi", Sony Max
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony BBC Earth HD
+#EXTINF:-1 group-title="English", Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Aath
+#EXTINF:-1 group-title="Bangla", Sony Aath
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony YAY
+#EXTINF:-1 group-title="Hindi", Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony SAB HD
+#EXTINF:-1 group-title="Hindi", Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Ten 1 HD
+#EXTINF:-1 group-title="Sports", Sony Ten 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Ten 2 HD
+#EXTINF:-1 group-title="Sports", Sony Ten 2 HD
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 group-title="Sony", Sony Ten 3 HD
+#EXTINF:-1 group-title="Sports", Sony Ten 3 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #BNET SERVER CHANNELS -------------------------------------------------------------------
 
-#EXTINF:-1, TSports
+#EXTINF:-1 group-title="Sports", TSports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 group-title="Sports", Sports 1
@@ -119,20 +113,25 @@ http://test-otv1.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 group-title="Sports", Sports 7
 http://test-otv1.ftpbd.net/streams/116/index.m3u8
 
-#EXTINF:-1, StarPlus
+#EXTINF:-1 group-title="Hindi", StarPlus
 http://test-otv2.ftpbd.net/streams/124/index.m3u8
 
-#EXTINF:-1, Set Max
+#EXTINF:-1 group-title="Hindi", Set Max
 http://test-otv2.ftpbd.net/streams/128/index.m3u8
 
-#EXTINF:-1, Ekattor TV
+#EXTINF:-1 group-title="Bangla", Ekattor TV
 http://test-otv1.ftpbd.net/streams/114/index.m3u8
 
-#EXTINF:-1, Star Jalsha HD
+#EXTINF:-1 group-title="Bangla", Star Jalsha HD
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
 
-#EXTINF:-1, Zee Bangla HD
+#EXTINF:-1 group-title="Bangla", Zee Bangla HD
 http://test-otv1.ftpbd.net/streams/119/index.m3u8
 
-#EXTINF:-1, Star Movies HD
+#EXTINF:-1 group-title="Bangla", Star Movies HD
 http://test-otv1.ftpbd.net/streams/120/index.m3u8
+
+#RANDOM CHANNELS --------------------------------------------------------------
+
+#EXTINF:-1 group-title="Music", Mtv
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
