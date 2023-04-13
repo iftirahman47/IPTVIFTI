@@ -98,11 +98,26 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1, TSports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
-#EXTINF:-1, Zee Bangla HD
-http://test-otv2.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 group-title="Sports", Sports 1
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
 
-#EXTINF:-1, Jalsha Movies HD
-http://test-otv2.ftpbd.net/streams/120/index.m3u8
+#EXTINF:-1 group-title="Sports", Sports 2
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports 3
+http://test-otv1.ftpbd.net/streams/109/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports 4
+http://test-otv1.ftpbd.net/streams/110/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports 5
+http://test-otv1.ftpbd.net/streams/111/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports 6
+http://test-otv1.ftpbd.net/streams/115/index.m3u8
+
+#EXTINF:-1 group-title="Sports", Sports 7
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
 
 #EXTINF:-1, StarPlus
 http://test-otv2.ftpbd.net/streams/124/index.m3u8
@@ -110,11 +125,14 @@ http://test-otv2.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1, Set Max
 http://test-otv2.ftpbd.net/streams/128/index.m3u8
 
-#EXTINF:-1, Star Jalsha
-http://test-otv2.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1, Ekattor TV
+http://test-otv1.ftpbd.net/streams/114/index.m3u8
 
-#EXTINF:-1 group-title="Sports",TSports
-http://test-otv1.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1, Star Jalsha HD
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
 
-#EXTINF:-1 group-title="Sports", Sports 1
-http://test-otv2.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1, Zee Bangla HD
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+
+#EXTINF:-1, Star Movies HD
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
