@@ -135,3 +135,9 @@ http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-1 group-title="Music", Mtv
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="Sports", IPL (1080p)
+https://cdn.t20hd.click/live/1080p.m3u8
+
+#EXTINF:-1 group-title="Sports", IPL (720p)
+https://cdn.t20hd.click/live/720p.m3u8
