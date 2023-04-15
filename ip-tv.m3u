@@ -35,22 +35,22 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 #DISCOVERY CHANNELS ---------------------------------------------------------------
 
 #EXTINF:-1 group-title="English", Discovery Channel
-https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8
+#https://gdlmovies.tech/Discovery+/api/Discovery_Channel.m3u8
 
 #EXTINF:-1 group-title="English", Discovery Science
-https://gdlmovies.tech/Discovery+/api/Discovery_Science.m3u8
+#https://gdlmovies.tech/Discovery+/api/Discovery_Science.m3u8
 
 #EXTINF:-1 group-title="English", Animal Planet
-https://gdlmovies.tech/Discovery+/api/Animal_Planet.m3u8
+#https://gdlmovies.tech/Discovery+/api/Animal_Planet.m3u8
 
 #EXTINF:-1 group-title="English", TLC
-https://gdlmovies.tech/Discovery+/api/TLC.m3u8
+#https://gdlmovies.tech/Discovery+/api/TLC.m3u8
 
 #EXTINF:-1 group-title="Sports", Eurosport
-https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
+#https://gdlmovies.tech/Discovery+/api/Eurosport.m3u8
 
 #EXTINF:-1 group-title="English", Discovery Kid
-https://gdlmovies.tech/Discovery+/api/Discovery_Kids.m3u8
+#https://gdlmovies.tech/Discovery+/api/Discovery_Kids.m3u8
 
 #SONY CHANNELS -------------------------------------------------------------------
 
@@ -141,3 +141,24 @@ https://cdn.t20hd.click/live/1080p.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL (720p)
 https://cdn.t20hd.click/live/720p.m3u8
+
+#EXTINF:-1 group-title="Sports", IPL 2023
+https://d4.dodocast.xyz:8018/view/hls/iRrd8QhcMdKy2zPuhc-ZiQ/1681572563/skyscric.m3u8
+
+#EXTINF:-1 group-title="Sports", Astro Cricket
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports", Willow Cricket
+https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports", Sky Sports Cricket
+https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hindi", And Prive_HD
+https://cflive-esports-english.zee5.com/out/v1/c062d6eaddd44be39d51d5270e4a151a/And_Prive_HD/index_7_0.m3u8
+
+#EXTINF:-1 group-title="Hindi", And Flix_HD
+https://cflive-esports-english.zee5.com/out/v1/c6ea36da68cc46608098d0a09a2be456/And_Flix_HD/index_7_0.m3u8
+
+#EXTINF:-1 group-title="Hindi", Zee Action
+https://cflive-esports-english.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index_3.m3u8
