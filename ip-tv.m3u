@@ -30,7 +30,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangla", Somoy TV
-http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Bangla", Channel I
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
@@ -98,9 +98,6 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #BNET SERVER CHANNELS -------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Sports", TSports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-
 #EXTINF:-1 group-title="Sports", Sports 1
 http://test-otv1.ftpbd.net/streams/106/index.m3u8
 
@@ -150,24 +147,6 @@ https://cdn.t20hd.click/live/1080p.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL (720p)
 https://cdn.t20hd.click/live/720p.m3u8
-
-#EXTINF:-1 group-title="Sports", IPL 2023
-https://d4.dodocast.xyz:8018/view/hls/iRrd8QhcMdKy2zPuhc-ZiQ/1681572563/skyscric.m3u8
-
-#EXTINF:-1 group-title="Sports", Astro Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports", Willow Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sports", Sky Sports Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Hindi", And Prive_HD
-https://cflive-esports-english.zee5.com/out/v1/c062d6eaddd44be39d51d5270e4a151a/And_Prive_HD/index_7_0.m3u8
-
-#EXTINF:-1 group-title="Hindi", And Flix_HD
-https://cflive-esports-english.zee5.com/out/v1/c6ea36da68cc46608098d0a09a2be456/And_Flix_HD/index_7_0.m3u8
 
 #EXTINF:-1 group-title="Hindi", Zee Action
 https://cflive-esports-english.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index_3.m3u8
