@@ -157,7 +157,58 @@ https://cdn.t20hd.click/live/720p.m3u8
 #EXTINF:-1 group-title="Hindi", Zee Action
 https://cflive-esports-english.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index_3.m3u8
 
-#EXTINF:0 group-title="Hindi", &Pictures HD
+#EXTINF:1 group-title="Hindi", &Pictures HD
 http://208.86.19.13:81/7055.stream/index.m3u8
+
+
+#JIO CHANNELS --------------------------------------------------------------
+
+#EXTINF:1 group-title="Hindi", Colors HD
+https://madplay.live/jiotv/app/live/144/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", MTV HD
+https://madplay.live/jiotv/app/live/1145/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", MTV Beats HD
+https://madplay.live/jiotv/app/live/753/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", History TV
+https://madplay.live/jiotv/app/live/146/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", Zoom
+https://madplay.live/jiotv/app/live/592/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", MTV
+https://madplay.live/jiotv/app/live/248/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", History TV Hindi
+https://madplay.live/jiotv/app/live/578/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", Colors
+https://madplay.live/jiotv/app/live/1368/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", VH1
+https://madplay.live/jiotv/app/live/1378/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", MTV Beats
+https://madplay.live/jiotv/app/live/1400/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", Colors Infinity
+https://madplay.live/jiotv/app/live/1325/null/index.m3u8
+
+#EXTINF:1 group-title="Hindi", Comedy Central
+https://madplay.live/jiotv/app/live/1327/null/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
