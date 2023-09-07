@@ -8,14 +8,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangla", BanglaVision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangla", Boishakhi Plus
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangla", Boishakhi Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangla", Btv World
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
@@ -29,9 +23,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangla", RTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla", Somoy TV
-
-
 #EXTINF:-1 group-title="Bangla", ATN News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
@@ -43,44 +34,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", Deepto 
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangla" Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
-#SONY CHANNELS -------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Hindi", Sony Set HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-
-#EXTINF:-1 group-title="Hindi", Sony Pix HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF:-1 group-title="Hindi", Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-
-#EXTINF:-1 group-title="Hindi", Sony Max
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-
-#EXTINF:-1 group-title="English", Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-
-#EXTINF:-1 group-title="Bangla", Sony Aath
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-
-#EXTINF:-1 group-title="Hindi", Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-
-#EXTINF:-1 group-title="Hindi", Sony SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-
-#EXTINF:-1 group-title="Sports", Sony Ten 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-
-#EXTINF:-1 group-title="Sports", Sony Ten 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1 group-title="Sports", Sony Ten 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #BNET SERVER CHANNELS -------------------------------------------------------------------
 
@@ -114,7 +67,7 @@ http://test-otv2.ftpbd.net/streams/128/index.m3u8
 #EXTINF:-1 group-title="Bangla", Ekattor TV
 http://test-otv1.ftpbd.net/streams/114/index.m3u8
 
-#EXTINF:-1 group-title="Bangla", Star Jalsha HD
+#EXTINF:-1 group-title="Bangla", Sony Aath
 http://test-otv1.ftpbd.net/streams/117/index.m3u8
 
 #EXTINF:-1 group-title="Bangla", Zee Bangla HD
@@ -125,59 +78,8 @@ http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #RANDOM CHANNELS --------------------------------------------------------------
 
-#EXTINF:-1 group-title="Music", Mtv
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="Sports", IPL (1080p)
-https://cdn.t20hd.click/live/1080p.m3u8
-
-#EXTINF:-1 group-title="Sports", IPL (720p)
-https://cdn.t20hd.click/live/720p.m3u8
-
-#EXTINF:-1 group-title="Hindi", Zee Action
-https://cflive-esports-english.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index_3.m3u8
-
-#EXTINF:1 group-title="Hindi", &Pictures HD
-http://208.86.19.13:81/7055.stream/index.m3u8
 
 
-#JIO CHANNELS --------------------------------------------------------------
-
-#EXTINF:1 group-title="Hindi", Colors HD
-https://madplay.live/jiotv/app/live/144/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", MTV HD
-https://madplay.live/jiotv/app/live/1145/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", MTV Beats HD
-https://madplay.live/jiotv/app/live/753/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", History TV
-https://madplay.live/jiotv/app/live/146/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", Zoom
-https://madplay.live/jiotv/app/live/592/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", MTV
-https://madplay.live/jiotv/app/live/248/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", History TV Hindi
-https://madplay.live/jiotv/app/live/578/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", Colors
-https://madplay.live/jiotv/app/live/1368/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", VH1
-https://madplay.live/jiotv/app/live/1378/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", MTV Beats
-https://madplay.live/jiotv/app/live/1400/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", Colors Infinity
-https://madplay.live/jiotv/app/live/1325/null/index.m3u8
-
-#EXTINF:1 group-title="Hindi", Comedy Central
-https://madplay.live/jiotv/app/live/1327/null/index.m3u8
 
 
 
