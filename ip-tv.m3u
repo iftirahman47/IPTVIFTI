@@ -29,17 +29,22 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangla", RTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangla", ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Bangla", Channel I
 ttps://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", DBC News
-http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla", Deepto 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla", SA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla", Asian TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla", Asian TV
 
 #BNET SERVER CHANNELS -------------------------------------------------------------------
 
@@ -94,12 +99,63 @@ http://test-otv2.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 group-title="Bangla", Star Movies HD
 http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
+#AynaOTT --------------------------------------------------------------
+
+#EXTINF:-1 group-title="Hindi", Sony HD
+https://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811392~exp=1697854592~acl=/*~data=45.61.146.183-WEB~hmac=b848f25b90c4a25e53bd809bddbbd9450f4802dcd9f8c8113ba007aa7f034a1c
+#EXTINF:-1 group-title="Hindi", Sony SD
+https://tvs1.aynaott.com/SonySD/tracks-v1a1/mono.m3u8?hdnts=st=1697811671~exp=1697854871~acl=/*~data=45.61.146.183-WEB~hmac=2dd99cac9e727448bce19f337417175c09dda5bea9598377776c114e96dbccc7
+#EXTINF:-1 group-title="Hindi", Max HD
+https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811787~exp=1697854987~acl=/*~data=45.61.146.183-WEB~hmac=563b9b68f20b2a9237d1d90016270a8ace272e716076520fa05f0c4e46d159e1
+#EXTINF:-1 group-title="Hindi", Pix HD
+https://tvs1.aynaott.com/PixHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811881~exp=1697855081~acl=/*~data=45.61.146.183-WEB~hmac=64d90dad930169d41ad2f82649b394e740b2bf850a4355b27cfc357826f30a49
+#EXTINF:-1 group-title="Hindi", Pix SD
+https://tvs1.aynaott.com/SonyPix/tracks-v1a1/mono.m3u8?hdnts=st=1697811965~exp=1697855165~acl=/*~data=45.61.146.183-WEB~hmac=171b3f0a162432a3f2024878cc5f7784e7a305dc76ef554509a133e1a16bc424
+#EXTINF:-1 group-title="Sports", TSports (AynaOTT)
+https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1697812379~exp=1697855579~acl=/*~data=45.61.146.183-WEB~hmac=44c1b3b6ed464e654db7927bc6dfa95318134661d1357016ec07e8d54c7c46a8
+
+
+#Voot --------------------------------------------------------------
+
+#EXTINF:-1 group-title="Hindi", Colors HD
+https://livevoot.co.in/voot/master.m3u8?id=Colors_HD_voot_MOB
+#EXTINF:-1 group-title="Hindi", Colors Cineplex
+https://livevoot.co.in/voot/master.m3u8?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 group-title="Hindi", Rishtey Cineplex
+https://livevoot.co.in/voot/master.m3u8?id=Rishtey_Cineplex_voot_MOB
+#EXTINF:-1 group-title="Hindi", MTV Beats HD
+https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_HD_voot_MOB
+#EXTINF:-1 group-title="Hindi", MTV Beats
+https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_voot_MOB
+#EXTINF:-1 group-title="Hindi", Colors Cineplex Bollywood
+https://livevoot.co.in/voot/master.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
+#EXTINF:-1 group-title="Hindi", MTV HD Plus
+https://livevoot.co.in/voot/master.m3u8?id=MTV_HD_Plus_voot_MOB
+#EXTINF:-1 group-title="Hindi", Colors Infinity HD
+https://livevoot.co.in/voot/master.m3u8?id=Colors_Infinity_HD_voot_MOB
+#EXTINF:-1 group-title="Hindi", Comedy Central HD
+https://livevoot.co.in/voot/master.m3u8?id=Comedy_Central_HD_voot_MOB
+
 #RANDOM CHANNELS --------------------------------------------------------------
 
-DFlix Sports
+#EXTINF:-1 group-title="Sports", Sports
 http://on-play.discoveryftp.net/stream/CE3HnL6RpBS12yhSE3Y0vQ/1697393692/live.m3u8
-
-
+#EXTINF:-1 group-title="Sports", Astro
+https://isp.sananda.online/Astro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", Fox
+https://isp.sananda.online/Fox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", Star
+https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", GTV 1
+http://103.180.112.66:8087/gtv/tracks-a1/index.fmp4.m3u8?token=d796e045568f7f67201620c7f4e5410f7afa8643-36ba3dc493ffe9a4038bc78213d52eb5-1697826102-1697815302
+#EXTINF:-1 group-title="Sports", Star Sports 1 HD (DekhoOTT)
+http://chanel.dekhaott.com/stersports1hd/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Sports", GTV 2
+http://chanel.dekhaott.com/GG/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Sports", GTV 3
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 
 
