@@ -138,21 +138,7 @@ https://livevoot.co.in/voot/master.m3u8?id=Comedy_Central_HD_voot_MOB
 
 #RANDOM CHANNELS --------------------------------------------------------------
 
-#EXTINF:-1 group-title="Sports", Sports
-http://on-play.discoveryftp.net/stream/CE3HnL6RpBS12yhSE3Y0vQ/1697393692/live.m3u8
-#EXTINF:-1 group-title="Sports", Astro
-https://isp.sananda.online/Astro/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", Fox
-https://isp.sananda.online/Fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", Star
-https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports", GTV 1
-http://103.180.112.66:8087/gtv/tracks-a1/index.fmp4.m3u8?token=d796e045568f7f67201620c7f4e5410f7afa8643-36ba3dc493ffe9a4038bc78213d52eb5-1697826102-1697815302
-#EXTINF:-1 group-title="Sports", Star Sports 1 HD (DekhoOTT)
-http://chanel.dekhaott.com/stersports1hd/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports", GTV 2
-http://chanel.dekhaott.com/GG/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Sports", GTV 3
+#EXTINF:-1 group-title="Sports", GTV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
