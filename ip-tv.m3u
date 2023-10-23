@@ -142,8 +142,8 @@ https://livevoot.co.in/voot/master.m3u8?id=Comedy_Central_HD_voot_MOB
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-
+#EXTINF:-1 group-title="Hindi", Bigg Boss 17 Live
+https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8
 
 
 
