@@ -148,7 +148,12 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x
 
 
 
-
+#EXTINF:-1 group-title="Sports", TSports (Server)
+http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=4d547c78636f9c6fe25fe6fa95ad62cc2cad5acd-8ebc48d5078523670b4721a72104826e-1698320282-1698309482
+#EXTINF:-1 group-title="Hindi", GTV (Server)
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=71c4a888d50c69752866b2d8ad4e871694c88fec-05041f34a1e7a0dcec2539ec06543bf2-1698320312-1698309512
+#EXTINF:-1 group-title="Hindi", Star sports 1 HD (Server)
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8?token=8a831cc807ceda9227cf3a26e96e8e4ed5eaa588-e97eea25300e71efab3144a44ccec6df-1698320349-1698309549
 
 
 
