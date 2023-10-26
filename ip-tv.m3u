@@ -99,22 +99,6 @@ http://test-otv2.ftpbd.net/streams/119/index.m3u8
 #EXTINF:-1 group-title="Bangla", Star Movies HD
 http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
-#AynaOTT --------------------------------------------------------------
-
-#EXTINF:-1 group-title="Hindi", Sony HD
-https://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811392~exp=1697854592~acl=/*~data=45.61.146.183-WEB~hmac=b848f25b90c4a25e53bd809bddbbd9450f4802dcd9f8c8113ba007aa7f034a1c
-#EXTINF:-1 group-title="Hindi", Sony SD
-https://tvs1.aynaott.com/SonySD/tracks-v1a1/mono.m3u8?hdnts=st=1697811671~exp=1697854871~acl=/*~data=45.61.146.183-WEB~hmac=2dd99cac9e727448bce19f337417175c09dda5bea9598377776c114e96dbccc7
-#EXTINF:-1 group-title="Hindi", Max HD
-https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811787~exp=1697854987~acl=/*~data=45.61.146.183-WEB~hmac=563b9b68f20b2a9237d1d90016270a8ace272e716076520fa05f0c4e46d159e1
-#EXTINF:-1 group-title="Hindi", Pix HD
-https://tvs1.aynaott.com/PixHD/tracks-v1a1/mono.m3u8?hdnts=st=1697811881~exp=1697855081~acl=/*~data=45.61.146.183-WEB~hmac=64d90dad930169d41ad2f82649b394e740b2bf850a4355b27cfc357826f30a49
-#EXTINF:-1 group-title="Hindi", Pix SD
-https://tvs1.aynaott.com/SonyPix/tracks-v1a1/mono.m3u8?hdnts=st=1697811965~exp=1697855165~acl=/*~data=45.61.146.183-WEB~hmac=171b3f0a162432a3f2024878cc5f7784e7a305dc76ef554509a133e1a16bc424
-#EXTINF:-1 group-title="Sports", TSports (AynaOTT)
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698310270~exp=1698353470~acl=/*~data=45.61.146.183-WEB~hmac=2d243a2469967c1f69bc5c0805d5f5a6d89e4afe48f9826475d2a231cd5188cf
-
-
 #Voot --------------------------------------------------------------
 
 #EXTINF:-1 group-title="Hindi", Colors HD
