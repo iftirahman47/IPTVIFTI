@@ -138,6 +138,7 @@ http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8?token=8a831cc80
 #EXTINF:-1 group-title="Sports", Willow (Server)
 http://otv.ftpbd.net:8082/Willow/tracks-v1a1/mono.m3u8?token=700ca501c3fa40b2e63c78ff830146f3ad252d68-478c0ba2ce1333731ae91667171008d6-1698321122-1698310322
 
-
+#EXTINF:-1 group-title="Sports", Fox
+http://xtv.ooo:8080/20005/20005/222281
 
 
