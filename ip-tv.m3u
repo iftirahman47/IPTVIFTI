@@ -142,4 +142,6 @@ http://otv.ftpbd.net:8082/Willow/tracks-v1a1/mono.m3u8?token=700ca501c3fa40b2e63
 http://xtv.ooo:8080/20005/20005/222281
 #EXTINF:-1 group-title="Sports", Tsports
 https://live.tsports.com/live/tsports_live_720/index.m3u8?DVR
+#EXTINF:-1 group-title="Hindi", ColorsTV
+https://madflix.live/jio/app/live59ec3789a41d68c9a2608d0fb93cde0614f6106b425bfc07a508b7f5946841935688b39433c2083c090a261d80bdd4e5e720f6a6fc153cc9c3eead20858c8bb6b7682edcb4324c9403608cc002773625/144/Colors_HD/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c81c6ee770ea965d47c3d9eb64748b678ada9f4d63a1c6885aa4e3fe37b686555183cc3a2d0bc248620144f1b57b2865522e3602ed378a3d95cfc0099379c489afb645eb59fbedd36912d0959eb7b6b950c5b95770528e0fffc716e2350712b1b7_playlist.m3u8
 
