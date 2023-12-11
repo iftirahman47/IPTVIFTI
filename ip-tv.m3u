@@ -147,1132 +147,441 @@ https://madflix.live/jio/app/live59ec3789a41d68c9a2608d0fb93cde0614f6106b425bfc0
 
 
 Opplex........................................................................................................................
-#EXTINF: -1 tvg-name="***IND: DRAMA (4K ULTRA HD)***" group-title="INDIAN | 4K ULTRA HD", ***IND: DRAMA (4K ULTRA HD)***
-http://xtv.ooo:8080/Zubair7248/724848/109946
-#EXTINF: -1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="INDIAN | 4K ULTRA HD", Colors (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109947
-#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://openboxv8s.com/india/set_asia.jpg" group-title="INDIAN | 4K ULTRA HD", SONY SET (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109948
-#EXTINF: -1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star Plus (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109949
-#EXTINF: -1 tvg-name="ZEE TV (4K)" tvg-logo="http://openboxv8s.com/india/zee_tv.jpg" group-title="INDIAN | 4K ULTRA HD", ZEE TV (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109950
-#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="STAR BHARAT (4K)" tvg-logo="http://openboxv8s.com/india/star-bharat-hk.png" group-title="INDIAN | 4K ULTRA HD", STAR BHARAT (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109951
-#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="INDIAN | 4K ULTRA HD", &tv (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109952
-#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="SONY SAB (4K)" tvg-logo="http://openboxv8s.com/india/sony_sab_tv_asia.jpg" group-title="INDIAN | 4K ULTRA HD", SONY SAB (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109953
-#EXTINF: -1 tvg-name="***IND: MOVIES (4K ULTRA HD)***" group-title="INDIAN | 4K ULTRA HD", ***IND: MOVIES (4K ULTRA HD)***
-http://xtv.ooo:8080/Zubair7248/724848/109954
-#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://openboxv8s.com/india/and_pictures_in.jpg" group-title="INDIAN | 4K ULTRA HD", &pictures (4K)
+
+#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="&pictures (4K)" tvg-logo="http://openboxv8s.com/india/and_pictures_in.jpg" group-title="Opplex | HINDI", &pictures (4K)
 http://xtv.ooo:8080/Zubair7248/724848/109955
-#EXTINF: -1 tvg-id="utvhd.in" tvg-name="UTV (4K)" group-title="INDIAN | 4K ULTRA HD", UTV (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109956
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="MAX (4K)" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" group-title="INDIAN | 4K ULTRA HD", MAX (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109957
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://openboxv8s.com/india/zee_cinema.jpg" group-title="INDIAN | 4K ULTRA HD", ZEE CINEMA (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109958
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star GOLD (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109959
-#EXTINF: -1 tvg-name="Star Gold Select (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="INDIAN | 4K ULTRA HD", Star Gold Select (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109960
-#EXTINF: -1 tvg-name="Movies_active (4K)" tvg-logo="https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active-hd-bg_041218121205.png" group-title="INDIAN | 4K ULTRA HD", Movies_active (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109961
-#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://openboxv8s.com/india/and-flix-in.png" group-title="INDIAN | 4K ULTRA HD", & flix (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109962
-#EXTINF: -1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" group-title="INDIAN | 4K ULTRA HD", & Prive (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109963
-#EXTINF: -1 tvg-name="& Xplorer (4K)" group-title="INDIAN | 4K ULTRA HD", & Xplorer (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109964
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://tvwiz.in/images/channel-images/MN+%20HD.v2.w132.png" group-title="INDIAN | 4K ULTRA HD", MN+ (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109965
-#EXTINF: -1 tvg-name="SONY PIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_pix_in.png" group-title="INDIAN | 4K ULTRA HD", SONY PIX (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109966
-#EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://openboxv8s.com/india/movies_now.png" group-title="INDIAN | 4K ULTRA HD", Movies Now (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109968
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR MOVIES (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109970
-#EXTINF: -1 tvg-id="starworldhd.in" tvg-name="STAR WORLD (4K)" tvg-logo="http://openboxv8s.com/india/star_world_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109971
-#EXTINF: -1 tvg-id="starpremierehd.in" tvg-name="STAR WORLD PREM (4K)" tvg-logo="http://openboxv8s.com/india/star_world_premiere_hd_in.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD PREM (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109972
-#EXTINF: -1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://openboxv8s.com/india/discovery-channel-east-us.png" group-title="INDIAN | 4K ULTRA HD", DISCOVERY (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109974
-#EXTINF: -1 tvg-id="animalplanethd.in" tvg-name="ANIMAL PLANET (4K)" tvg-logo="http://openboxv8s.com/india/animal-planet-us.png" group-title="INDIAN | 4K ULTRA HD", ANIMAL PLANET (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109975
-#EXTINF: -1 tvg-name="NAT Geo Wild (4K)*" tvg-logo="http://openboxv8s.com/india/nat_geo_wild_asia.jpg" group-title="INDIAN | 4K ULTRA HD", NAT Geo Wild (4K)*
-http://xtv.ooo:8080/Zubair7248/724848/109976
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="National GEO (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="INDIAN | 4K ULTRA HD", National GEO (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109977
-#EXTINF: -1 tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD", Sony BBC Ear (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109978
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="FOX Life (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="INDIAN | 4K ULTRA HD", FOX Life (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109980
-#EXTINF: -1 tvg-name="IN: COLORS CINEPLEX (4K)" group-title="INDIAN | 4K ULTRA HD", IN: COLORS CINEPLEX (4K)
-http://xtv.ooo:8080/Zubair7248/724848/206315
-#EXTINF: -1 tvg-name="IND: Sony MAX 2 (4K)" group-title="INDIAN | 4K ULTRA HD", IND: Sony MAX 2 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/206317
-#EXTINF: -1 tvg-name="IND: Oscar Movies (4K)" group-title="INDIAN | 4K ULTRA HD", IND: Oscar Movies (4K)
-http://xtv.ooo:8080/Zubair7248/724848/206319
-#EXTINF: -1 tvg-id="jalshamovieshd.in" tvg-name="IN: Jalsha Movies (4K)*" group-title="INDIAN | 4K ULTRA HD", IN: Jalsha Movies (4K)*
-http://xtv.ooo:8080/Zubair7248/724848/206320
-#EXTINF: -1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC", IN | Zoom TV
-http://xtv.ooo:8080/Zubair7248/724848/66190
-#EXTINF: -1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC", IN | 9xm
-http://xtv.ooo:8080/Zubair7248/724848/66192
-#EXTINF: -1 tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC", IN | B4u Music
-http://xtv.ooo:8080/Zubair7248/724848/66203
-#EXTINF: -1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC", IN | 9x Jalwa
-http://xtv.ooo:8080/Zubair7248/724848/66226
-#EXTINF: -1 tvg-name="IN | MTV BEAT [FHD]" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC", IN | MTV BEAT [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66273
-#EXTINF: -1 tvg-name="ind-pun: Pittara TV" group-title="INDIAN | MUSIC", ind-pun: Pittara TV
-http://xtv.ooo:8080/Zubair7248/724848/66285
-#EXTINF: -1 tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC", IN | 9x Tashan
-http://xtv.ooo:8080/Zubair7248/724848/66289
-#EXTINF: -1 tvg-name="IN: Mastii" group-title="INDIAN | MUSIC", IN: Mastii
-http://xtv.ooo:8080/Zubair7248/724848/112988
-#EXTINF: -1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" group-title="INDIAN | MUSIC", IN: UTV Bindass
-http://xtv.ooo:8080/Zubair7248/724848/112993
-#EXTINF: -1 tvg-name="IND-Punjabi: PTC_MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="INDIAN | MUSIC", IND-Punjabi: PTC_MUSIC
-http://xtv.ooo:8080/Zubair7248/724848/153373
-#EXTINF: -1 tvg-name="MUSIC INDIA*" group-title="INDIAN | MUSIC", MUSIC INDIA*
-http://xtv.ooo:8080/Zubair7248/724848/190028
-#EXTINF: -1 tvg-name="IN: Boogle Bollywood" group-title="INDIAN | MUSIC", IN: Boogle Bollywood
-http://xtv.ooo:8080/Zubair7248/724848/206045
-#EXTINF: -1 tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="INDIAN | MUSIC", IND: MTV HD +
-http://xtv.ooo:8080/Zubair7248/724848/206049
-#EXTINF: -1 tvg-name="IND: MH1 Music" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6e/ATN_MH1_logo.png" group-title="INDIAN | MUSIC", IND: MH1 Music
-http://xtv.ooo:8080/Zubair7248/724848/206050
-#EXTINF: -1 tvg-name="IND: MTV India" tvg-logo="http://www.prowrestlingleague.com/images/logo.png" group-title="INDIAN | MUSIC", IND: MTV India
-http://xtv.ooo:8080/Zubair7248/724848/206054
-#EXTINF: -1 tvg-name="IN: 9X Jhakaas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/9XJhakaasLogo.jpg" group-title="INDIAN | MUSIC", IN: 9X Jhakaas
-http://xtv.ooo:8080/Zubair7248/724848/206064
-#EXTINF: -1 tvg-name="IND:PB: PTC Music" group-title="INDIAN | MUSIC", IND:PB: PTC Music
-http://xtv.ooo:8080/Zubair7248/724848/219494
-#EXTINF: -1 tvg-name="IND:PB: Balle Balle" group-title="INDIAN | MUSIC", IND:PB: Balle Balle
-http://xtv.ooo:8080/Zubair7248/724848/219495
-#EXTINF: -1 tvg-name="IND:PB: Wah Punjabi" group-title="INDIAN | MUSIC", IND:PB: Wah Punjabi
-http://xtv.ooo:8080/Zubair7248/724848/219496
-#EXTINF: -1 tvg-name="IND: ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="INDIAN | MUSIC", IND: ZING
-http://xtv.ooo:8080/Zubair7248/724848/219497
-#EXTINF: -1 tvg-name="24/7 MUSIC 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 18
-http://xtv.ooo:8080/Zubair7248/724848/362865
-#EXTINF: -1 tvg-name="24/7 MUSIC 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 19
-http://xtv.ooo:8080/Zubair7248/724848/362866
-#EXTINF: -1 tvg-name="24/7 MUSIC 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 20
-http://xtv.ooo:8080/Zubair7248/724848/362867
-#EXTINF: -1 tvg-name="24/7 MUSIC 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 21
-http://xtv.ooo:8080/Zubair7248/724848/362868
-#EXTINF: -1 tvg-name="IN: 24/7 MUSIC 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", IN: 24/7 MUSIC 01
-http://xtv.ooo:8080/Zubair7248/724848/219498
-#EXTINF: -1 tvg-name="IN: 24/7 MUSIC 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", IN: 24/7 MUSIC 02
-http://xtv.ooo:8080/Zubair7248/724848/270503
-#EXTINF: -1 tvg-name="IN: 24/7 MUSIC 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", IN: 24/7 MUSIC 03
-http://xtv.ooo:8080/Zubair7248/724848/270504
-#EXTINF: -1 tvg-name="24/7 MUSIC 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 04
-http://xtv.ooo:8080/Zubair7248/724848/270505
-#EXTINF: -1 tvg-name="24/7 MUSIC 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 05
-http://xtv.ooo:8080/Zubair7248/724848/270506
-#EXTINF: -1 tvg-name="24/7 MUSIC 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 06
-http://xtv.ooo:8080/Zubair7248/724848/270507
-#EXTINF: -1 tvg-name="24/7 MUSIC 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 07
-http://xtv.ooo:8080/Zubair7248/724848/270508
-#EXTINF: -1 tvg-name="24/7 MUSIC 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 08
-http://xtv.ooo:8080/Zubair7248/724848/270509
-#EXTINF: -1 tvg-name="24/7 MUSIC 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 09
-http://xtv.ooo:8080/Zubair7248/724848/270510
-#EXTINF: -1 tvg-name="24/7 MUSIC 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 10
-http://xtv.ooo:8080/Zubair7248/724848/270511
-#EXTINF: -1 tvg-name="24/7 MUSIC 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 11
-http://xtv.ooo:8080/Zubair7248/724848/270512
-#EXTINF: -1 tvg-name="24/7 MUSIC 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 12
-http://xtv.ooo:8080/Zubair7248/724848/270513
-#EXTINF: -1 tvg-name="24/7 MUSIC 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 13
-http://xtv.ooo:8080/Zubair7248/724848/270514
-#EXTINF: -1 tvg-name="24/7 MUSIC 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 14
-http://xtv.ooo:8080/Zubair7248/724848/270515
-#EXTINF: -1 tvg-name="24/7 MUSIC 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 15
-http://xtv.ooo:8080/Zubair7248/724848/270516
-#EXTINF: -1 tvg-name="24/7 MUSIC 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 16
-http://xtv.ooo:8080/Zubair7248/724848/270517
-#EXTINF: -1 tvg-name="24/7 MUSIC 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="INDIAN | MUSIC", 24/7 MUSIC 17
-http://xtv.ooo:8080/Zubair7248/724848/270518
-#EXTINF: -1 tvg-id="sonybbcearthhd.in" tvg-name="IN | BBC EART HD" group-title="INDIAN | DOCUMENTARY", IN | BBC EART HD
-http://xtv.ooo:8080/Zubair7248/724848/206278
-#EXTINF: -1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Eng" group-title="INDIAN | DOCUMENTARY", IND: Travel_XP Eng
-http://xtv.ooo:8080/Zubair7248/724848/206279
-#EXTINF: -1 tvg-id="travelxphd.in" tvg-name="IND: Travel_XP Hindi" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/07/29/Untitled-1.jpg" group-title="INDIAN | DOCUMENTARY", IND: Travel_XP Hindi
-http://xtv.ooo:8080/Zubair7248/724848/206280
-#EXTINF: -1 tvg-id="travelxphd.in" tvg-name="IN: Travelxp FHD" group-title="INDIAN | DOCUMENTARY", IN: Travelxp FHD
-http://xtv.ooo:8080/Zubair7248/724848/206281
-#EXTINF: -1 tvg-id="animalplanethd.in" tvg-name="IND: Animal Planet Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY", IND: Animal Planet Hindi
-http://xtv.ooo:8080/Zubair7248/724848/206282
-#EXTINF: -1 tvg-id="animalplanethd.in" tvg-name="IN: Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/797px-Animal_Planet_logo.svg.png" group-title="INDIAN | DOCUMENTARY", IN: Animal Planet FHD
-http://xtv.ooo:8080/Zubair7248/724848/206283
-#EXTINF: -1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IND: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" group-title="INDIAN | DOCUMENTARY", IND: Nat Geo HD
-http://xtv.ooo:8080/Zubair7248/724848/206285
-#EXTINF: -1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY", IN | Nat Geo Wild HINDI
-http://xtv.ooo:8080/Zubair7248/724848/206286
-#EXTINF: -1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="INDIAN | DOCUMENTARY", IND: Discovery Hindi *
-http://xtv.ooo:8080/Zubair7248/724848/206287
-#EXTINF: -1 tvg-name="IND: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" group-title="INDIAN | DOCUMENTARY", IND: Discovery Science
-http://xtv.ooo:8080/Zubair7248/724848/206289
-#EXTINF: -1 tvg-id="InvestigationDiscovery.ca" tvg-name="IND: Investigation Discovery Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="INDIAN | DOCUMENTARY", IND: Investigation Discovery Hindi
-http://xtv.ooo:8080/Zubair7248/724848/206291
-#EXTINF: -1 tvg-id="discoveryturbo.in" tvg-name="IND: Discovery_Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="INDIAN | DOCUMENTARY", IND: Discovery_Turbo
-http://xtv.ooo:8080/Zubair7248/724848/206292
-#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" group-title="INDIAN | DOCUMENTARY", IND: History_18_Hindi
-http://xtv.ooo:8080/Zubair7248/724848/206294
-#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IN: History TV 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INDIAN | DOCUMENTARY", IN: History TV 18 FHD
-http://xtv.ooo:8080/Zubair7248/724848/206295
-#EXTINF: -1 tvg-id="africamagicepic.za" tvg-name="IND: Epic" group-title="INDIAN | DOCUMENTARY", IND: Epic
-http://xtv.ooo:8080/Zubair7248/724848/206296
-#EXTINF: -1 tvg-id="natgeowildhd.in" tvg-name="IN | Nat Geo Wild FHD ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="INDIAN | DOCUMENTARY", IN | Nat Geo Wild FHD ENG
-http://xtv.ooo:8080/Zubair7248/724848/206587
-#EXTINF: -1 tvg-name="DOC | NAT GEO WILD Safari" group-title="INDIAN | DOCUMENTARY", DOC | NAT GEO WILD Safari
-http://xtv.ooo:8080/Zubair7248/724848/363003
-#EXTINF: -1 tvg-name="DOC | Nat Geo Wild and Worlds Deadliest" group-title="INDIAN | DOCUMENTARY", DOC | Nat Geo Wild and Worlds Deadliest
-http://xtv.ooo:8080/Zubair7248/724848/363004
-#EXTINF: -1 tvg-name="DOC | Nat Geo Wild Newest Clips" group-title="INDIAN | DOCUMENTARY", DOC | Nat Geo Wild Newest Clips
-http://xtv.ooo:8080/Zubair7248/724848/363005
-#EXTINF: -1 tvg-name="DOC | Nat Geo Wild NEWS" group-title="INDIAN | DOCUMENTARY", DOC | Nat Geo Wild NEWS
-http://xtv.ooo:8080/Zubair7248/724848/363006
-#EXTINF: -1 tvg-name="DOC | Wildlife HINDI" group-title="INDIAN | DOCUMENTARY", DOC | Wildlife HINDI
-http://xtv.ooo:8080/Zubair7248/724848/363002
-#EXTINF: -1 tvg-name="***IND: SPORTS (4K ULTRA HD)***" group-title="INDIAN | SPORTS 4K (ULTRA HD)", ***IND: SPORTS (4K ULTRA HD)***
-http://xtv.ooo:8080/Zubair7248/724848/109982
-#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Sony Ten 1 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109983
-#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Sony Ten 2 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109984
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Sony Ten 3 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109985
-#EXTINF: -1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Star Sport 1 HINDI (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109986
-#EXTINF: -1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Star Sports 1 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109987
-#EXTINF: -1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Star Sports 2 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109988
-#EXTINF: -1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)", SONY SIX (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109992
-#EXTINF: -1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Star Sports Select 1 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109993
-#EXTINF: -1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Star Sports Select 2 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/109994
-#EXTINF: -1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", IN: EUROPSPORT (4K)
-http://xtv.ooo:8080/Zubair7248/724848/206324
-#EXTINF: -1 tvg-name="*** WellCome ***" group-title="CRICKET", *** WellCome ***
-http://xtv.ooo:8080/Zubair7248/724848/26014
-#EXTINF: -1 tvg-name="PK: PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET", PK: PTV SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/167567
-#EXTINF: -1 tvg-name="PK: PTV SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="CRICKET", PK: PTV SPORTS HD
-http://xtv.ooo:8080/Zubair7248/724848/217968
-#EXTINF: -1 tvg-name="PK | Geo Super HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="CRICKET", PK | Geo Super HD
-http://xtv.ooo:8080/Zubair7248/724848/167568
-#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="CRICKET", PK: TEN SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/167569
-#EXTINF: -1 tvg-name="T20 WORLD CUP 01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/ICC_T20_World_Cup_2022_Logo.png" group-title="CRICKET", T20 WORLD CUP 01
-http://xtv.ooo:8080/Zubair7248/724848/219643
-#EXTINF: -1 tvg-name="PK: A Sports HD (Server 1)" tvg-logo="http://logo.xsmarters.com/logo/ASPORTSARY.jfif" group-title="CRICKET", PK: A Sports HD (Server 1)
-http://xtv.ooo:8080/Zubair7248/724848/219689
-#EXTINF: -1 tvg-name="PK: A Sports HD (Server 2)" tvg-logo="http://opplextv.com/logo/ASPORTSARY.jfif" group-title="CRICKET", PK: A Sports HD (Server 2)
-http://xtv.ooo:8080/Zubair7248/724848/221417
-#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="CRICKET", IN | Ten 1 HD
-http://xtv.ooo:8080/Zubair7248/724848/167570
-#EXTINF: -1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="CRICKET", IN | Ten 2 HD
-http://xtv.ooo:8080/Zubair7248/724848/167571
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="CRICKET", IN | Ten 3 HD
-http://xtv.ooo:8080/Zubair7248/724848/167572
-#EXTINF: -1 tvg-name="IN: Sony Ten 4" group-title="CRICKET", IN: Sony Ten 4
-http://xtv.ooo:8080/Zubair7248/724848/167595
-#EXTINF: -1 tvg-name="CRI: Ten Cricket" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="CRICKET", CRI: Ten Cricket
-http://xtv.ooo:8080/Zubair7248/724848/167587
-#EXTINF: -1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", IN: STAR SPORTS 1 Hindi
-http://xtv.ooo:8080/Zubair7248/724848/167573
-#EXTINF: -1 tvg-id="starsports1tamil.in" tvg-name="IN: Star Sports tamil 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET", IN: Star Sports tamil 1
-http://xtv.ooo:8080/Zubair7248/724848/167574
-#EXTINF: -1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="CRICKET", IN | Star Sports 1 HD
-http://xtv.ooo:8080/Zubair7248/724848/167575
-#EXTINF: -1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="CRICKET", IN | Star Sports 2 HD
-http://xtv.ooo:8080/Zubair7248/724848/167576
-#EXTINF: -1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="CRICKET", IN | Star Sports 3 HD
-http://xtv.ooo:8080/Zubair7248/724848/167577
-#EXTINF: -1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="CRICKET", IN | STAR SPORTS SELECT 1
-http://xtv.ooo:8080/Zubair7248/724848/167578
-#EXTINF: -1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="CRICKET", IN | STAR SPORTS SELECT 2
-http://xtv.ooo:8080/Zubair7248/724848/167579
-#EXTINF: -1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CRICKET", IN | SONY TEN 5
-http://xtv.ooo:8080/Zubair7248/724848/167580
-#EXTINF: -1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="CRICKET", IN | Astro Cricket HD
-http://xtv.ooo:8080/Zubair7248/724848/167581
-#EXTINF: -1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="CRICKET", SuperSport Cricket
-http://xtv.ooo:8080/Zubair7248/724848/167592
-#EXTINF: -1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="CRICKET", AU: FOX CRICKET 501
-http://xtv.ooo:8080/Zubair7248/724848/167593
-#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="CRICKET", UK: Sky Sports Cricket
-http://xtv.ooo:8080/Zubair7248/724848/167594
-#EXTINF: -1 tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="CRICKET", IN | Willow Xtra
-http://xtv.ooo:8080/Zubair7248/724848/167582
-#EXTINF: -1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="CRICKET", IN: Willow Cricket HD
-http://xtv.ooo:8080/Zubair7248/724848/167583
-#EXTINF: -1 tvg-name="BS | beIN SPORT CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" group-title="CRICKET", BS | beIN SPORT CRICKET
-http://xtv.ooo:8080/Zubair7248/724848/167584
-#EXTINF: -1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="CRICKET", IN: EUROPSPORT HD
-http://xtv.ooo:8080/Zubair7248/724848/167585
-#EXTINF: -1 tvg-name="IN: 1SPORTS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET", IN: 1SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/167586
-#EXTINF: -1 tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CRICKET", IN: DD Sports
-http://xtv.ooo:8080/Zubair7248/724848/167588
-#EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="CRICKET", T-SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/167590
-#EXTINF: -1 tvg-name="AFG: RTA SPORTS" tvg-logo="https://rtasportswear.com/wp-content/uploads/2020/03/logo-copy-300x123.png" group-title="CRICKET", AFG: RTA SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/167591
-#EXTINF: -1 tvg-name="IND: jio Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Reliance_Jio_Logo_%28October_2015%29.svg/1200px-Reliance_Jio_Logo_%28October_2015%29.svg.png" group-title="CRICKET", IND: jio Cricket
-http://xtv.ooo:8080/Zubair7248/724848/206297
-#EXTINF: -1 tvg-id="BTSport2.uk" tvg-name="UK: BT Sport 2 CRICKET" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET", UK: BT Sport 2 CRICKET
-http://xtv.ooo:8080/Zubair7248/724848/206566
-#EXTINF: -1 tvg-name="PK: MAQ TV CRICKET" group-title="CRICKET", PK: MAQ TV CRICKET
-http://xtv.ooo:8080/Zubair7248/724848/207190
-#EXTINF: -1 tvg-name="NZ: SKY Sport Cricket 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/600px-Sky_Sport_NZ_2019.svg.png" group-title="CRICKET", NZ: SKY Sport Cricket 3
-http://xtv.ooo:8080/Zubair7248/724848/217530
-#EXTINF: -1 tvg-name="CAR: Sports Max Cricket" tvg-logo="https://discoverflow.co/sites/discoverflow.co/files/Flow_Sports_1_Logo_Primary_RGB.png" group-title="CRICKET", CAR: Sports Max Cricket
-http://xtv.ooo:8080/Zubair7248/724848/219598
-#EXTINF: -1 tvg-name="UK: Free Sports Cric" tvg-logo="https://cdn6.aptoide.com/imgs/0/4/2/042b850e2b3895e1e4dc4728a87cd185_icon.png" group-title="CRICKET", UK: Free Sports Cric
-http://xtv.ooo:8080/Zubair7248/724848/219599
-#EXTINF: -1 tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="CRICKET", IN: Sports 18 (4K)
-http://xtv.ooo:8080/Zubair7248/724848/302600
-#EXTINF: -1 tvg-name="PK: FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="CRICKET", PK: FAST SPORTS
-http://xtv.ooo:8080/Zubair7248/724848/308225
-#EXTINF: -1 tvg-name="CricLife 1" group-title="CRICKET", CricLife 1
-http://xtv.ooo:8080/Zubair7248/724848/371469
-#EXTINF: -1 tvg-name="CricLife 2" group-title="CRICKET", CricLife 2
-http://xtv.ooo:8080/Zubair7248/724848/371470
-#EXTINF: -1 tvg-name="CricLife 3" group-title="CRICKET", CricLife 3
-http://xtv.ooo:8080/Zubair7248/724848/371471
-#EXTINF: -1 tvg-name="***** IN | India *****" group-title="INDIAN | ENTERTAINMENT", ***** IN | India *****
-http://xtv.ooo:8080/Zubair7248/724848/66161
-#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee TV
-http://xtv.ooo:8080/Zubair7248/724848/221250
-#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee TV HD
-http://xtv.ooo:8080/Zubair7248/724848/66162
-#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee TV [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66163
-#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony SET (TATAPLAY)
-http://xtv.ooo:8080/Zubair7248/724848/221251
-#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony SET HD
-http://xtv.ooo:8080/Zubair7248/724848/66164
-#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET [FHD]" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony SET [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66165
-#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Plus
-http://xtv.ooo:8080/Zubair7248/724848/221252
-#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Plus HD
-http://xtv.ooo:8080/Zubair7248/724848/66166
-#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Plus FHD
-http://xtv.ooo:8080/Zubair7248/724848/66208
-#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Colors
-http://xtv.ooo:8080/Zubair7248/724848/221254
-#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Colors HD
-http://xtv.ooo:8080/Zubair7248/724848/66167
-#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Colors [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66168
-#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Bharat
-http://xtv.ooo:8080/Zubair7248/724848/221255
-#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat HD" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Bharat HD
-http://xtv.ooo:8080/Zubair7248/724848/66170
-#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat [FHD]" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Bharat [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66171
-#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Sab
-http://xtv.ooo:8080/Zubair7248/724848/221256
-#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Sab HD
-http://xtv.ooo:8080/Zubair7248/724848/66174
-#EXTINF: -1 tvg-id="sonysab.uk" tvg-name="IN | Sony Sab UK*" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Sab UK*
-http://xtv.ooo:8080/Zubair7248/724848/66175
-#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="INDIAN | ENTERTAINMENT", IN: SONY SAB [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/104194
-#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT", IN | &Tv
-http://xtv.ooo:8080/Zubair7248/724848/221253
-#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT", IN | &Tv HD
-http://xtv.ooo:8080/Zubair7248/724848/66172
-#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv [FHD]" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN | ENTERTAINMENT", IN | &Tv [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66173
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT", IN | STAR GOLD THRILLS
-http://xtv.ooo:8080/Zubair7248/724848/221258
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Gold HD
-http://xtv.ooo:8080/Zubair7248/724848/66177
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Gold [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66178
-#EXTINF: -1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Gold Select
-http://xtv.ooo:8080/Zubair7248/724848/221257
-#EXTINF: -1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Gold Select HD
-http://xtv.ooo:8080/Zubair7248/724848/66176
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="INDIAN | ENTERTAINMENT", IND: Star Gold 2
-http://xtv.ooo:8080/Zubair7248/724848/106133
-#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="INDIAN | ENTERTAINMENT", IN: STAR GOLD HD (TATASKY)
-http://xtv.ooo:8080/Zubair7248/724848/112982
-#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT", IN | & Pictures
+#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="&tv (4K)" tvg-logo="http://openboxv8s.com/ukicons/and_tv_in.png" group-title="Opplex | HINDI", &tv (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109952
+#EXTINF: -1 tvg-id="colorshd.in" tvg-name="Colors (4K)" tvg-logo="http://openboxv8s.com/india/colors-in.png" group-title="Opplex | HINDI", Colors (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109947
+#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Opplex | HINDI", IN | & Pictures
 http://xtv.ooo:8080/Zubair7248/724848/221260
-#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT", IN | & Pictures HD
-http://xtv.ooo:8080/Zubair7248/724848/66181
-#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT", IN | & Pictures [FHD]
+#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="IN | & Pictures [FHD]" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Opplex | HINDI", IN | & Pictures [FHD]
 http://xtv.ooo:8080/Zubair7248/724848/66183
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT", IN | ZEE CINEMA FHD (TATASKY)
-http://xtv.ooo:8080/Zubair7248/724848/221261
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT", IN | ZEE CINEMA HD
-http://xtv.ooo:8080/Zubair7248/724848/206307
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT", IN | ZEE CINEMA [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/206308
-#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="INDIAN | ENTERTAINMENT", IND: Zee Cinema USA
-http://xtv.ooo:8080/Zubair7248/724848/206268
-#EXTINF: -1 tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="INDIAN | ENTERTAINMENT", IN: Dhamaka Movies B4U
-http://xtv.ooo:8080/Zubair7248/724848/66184
-#EXTINF: -1 tvg-name="IN: Oscar Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="INDIAN | ENTERTAINMENT", IN: Oscar Movies
-http://xtv.ooo:8080/Zubair7248/724848/66185
-#EXTINF: -1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://static.epg.best/in/UTVAction.in.png" group-title="INDIAN | ENTERTAINMENT", IN: STAR GOLD ROMANCE
-http://xtv.ooo:8080/Zubair7248/724848/66186
-#EXTINF: -1 tvg-name="IND: Box Cinema**" group-title="INDIAN | ENTERTAINMENT", IND: Box Cinema**
-http://xtv.ooo:8080/Zubair7248/724848/206269
-#EXTINF: -1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kp7b_-laBpBjH0VGRzxU5IgXS7qhzIkJIg&usqp=CAU" group-title="INDIAN | ENTERTAINMENT", IN: COLORS CINEPLEX
-http://xtv.ooo:8080/Zubair7248/724848/104191
-#EXTINF: -1 tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="INDIAN | ENTERTAINMENT", IN: COLORS CINEPLEX FHD
-http://xtv.ooo:8080/Zubair7248/724848/206310
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Max (TATAPLAY)
-http://xtv.ooo:8080/Zubair7248/724848/221259
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Max HD
-http://xtv.ooo:8080/Zubair7248/724848/66179
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Max [FHD]
-http://xtv.ooo:8080/Zubair7248/724848/66180
-#EXTINF: -1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN | ENTERTAINMENT", IN | SONY MAX 2
-http://xtv.ooo:8080/Zubair7248/724848/66189
-#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IND: Sony MAX 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="INDIAN | ENTERTAINMENT", IND: Sony MAX 2 FHD
-http://xtv.ooo:8080/Zubair7248/724848/206312
-#EXTINF: -1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee Anmol Cinema
-http://xtv.ooo:8080/Zubair7248/724848/66187
-#EXTINF: -1 tvg-id="colorsrishtey.in" tvg-name="IN | Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Colors Rishtey
-http://xtv.ooo:8080/Zubair7248/724848/66188
-#EXTINF: -1 tvg-name="IN | MINIPLEX HD*" tvg-logo="https://static.epg.best/in/Miniplex.in.png" group-title="INDIAN | ENTERTAINMENT", IN | MINIPLEX HD*
-http://xtv.ooo:8080/Zubair7248/724848/66194
-#EXTINF: -1 tvg-id="colorsrishtey.in" tvg-name="IN: Color Cineplex SuperHits" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="INDIAN | ENTERTAINMENT", IN: Color Cineplex SuperHits
-http://xtv.ooo:8080/Zubair7248/724848/66199
-#EXTINF: -1 tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="INDIAN | ENTERTAINMENT", IN | ZEE ACTION
-http://xtv.ooo:8080/Zubair7248/724848/66191
-#EXTINF: -1 tvg-name="IN | ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="INDIAN | ENTERTAINMENT", IN | ZEE CLASSIC
-http://xtv.ooo:8080/Zubair7248/724848/66201
-#EXTINF: -1 tvg-name="IN: Bflix Movies*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT", IN: Bflix Movies*
-http://xtv.ooo:8080/Zubair7248/724848/104190
-#EXTINF: -1 tvg-id="sonypal.in" tvg-name="IN | Sony Pal*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Pal*
-http://xtv.ooo:8080/Zubair7248/724848/104192
-#EXTINF: -1 tvg-name="IND: BIG MAGIC" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="INDIAN | ENTERTAINMENT", IND: BIG MAGIC
-http://xtv.ooo:8080/Zubair7248/724848/104198
-#EXTINF: -1 tvg-name="IND: B4U Kadak*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="INDIAN | ENTERTAINMENT", IND: B4U Kadak*
-http://xtv.ooo:8080/Zubair7248/724848/104199
-#EXTINF: -1 tvg-name="IND: ABZY MOVIES**" group-title="INDIAN | ENTERTAINMENT", IND: ABZY MOVIES**
-http://xtv.ooo:8080/Zubair7248/724848/104200
-#EXTINF: -1 tvg-name="IND: B4U Movies" group-title="INDIAN | ENTERTAINMENT", IND: B4U Movies
-http://xtv.ooo:8080/Zubair7248/724848/104201
-#EXTINF: -1 tvg-name="IND: ENTER 10 Movies" group-title="INDIAN | ENTERTAINMENT", IND: ENTER 10 Movies
-http://xtv.ooo:8080/Zubair7248/724848/104202
-#EXTINF: -1 tvg-name="IND: MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="INDIAN | ENTERTAINMENT", IND: MANORANJAN TV
-http://xtv.ooo:8080/Zubair7248/724848/104203
-#EXTINF: -1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol*" tvg-logo="https://e7.pngegg.com/pngimages/330/556/png-clipart-zee-anmol-cinema-zee-entertainment-enterprises-dd-free-dish-television-channel-others-purple-television.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee Anmol*
-http://xtv.ooo:8080/Zubair7248/724848/66357
-#EXTINF: -1 tvg-name="IND: MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="INDIAN | ENTERTAINMENT", IND: MANORANJAN MOVIES
-http://xtv.ooo:8080/Zubair7248/724848/104204
-#EXTINF: -1 tvg-name="IN | Maha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="INDIAN | ENTERTAINMENT", IN | Maha Movies
-http://xtv.ooo:8080/Zubair7248/724848/104206
-#EXTINF: -1 tvg-name="IN: ZEE ZEST HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="INDIAN | ENTERTAINMENT", IN: ZEE ZEST HD*
-http://xtv.ooo:8080/Zubair7248/724848/104212
-#EXTINF: -1 tvg-name="IN: WOW CINEMA" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="INDIAN | ENTERTAINMENT", IN: WOW CINEMA
-http://xtv.ooo:8080/Zubair7248/724848/106132
-#EXTINF: -1 tvg-name="IN: |UK| ZEE CINEMA UK" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/zee_cinema_asia.png" group-title="INDIAN | ENTERTAINMENT", IN: |UK| ZEE CINEMA UK
-http://xtv.ooo:8080/Zubair7248/724848/112970
-#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="IN: STAR UTSAV MOVIES**" group-title="INDIAN | ENTERTAINMENT", IN: STAR UTSAV MOVIES**
-http://xtv.ooo:8080/Zubair7248/724848/112971
-#EXTINF: -1 tvg-name="IN: GOLDMINES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="INDIAN | ENTERTAINMENT", IN: GOLDMINES
-http://xtv.ooo:8080/Zubair7248/724848/112972
-#EXTINF: -1 tvg-name="IN: GOLDMINES BOLLYWOOD" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" group-title="INDIAN | ENTERTAINMENT", IN: GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/Zubair7248/724848/112973
-#EXTINF: -1 tvg-name="IN: DD National" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="INDIAN | ENTERTAINMENT", IN: DD National
-http://xtv.ooo:8080/Zubair7248/724848/112975
-#EXTINF: -1 tvg-name="IN: ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="INDIAN | ENTERTAINMENT", IN: ZEE TV CANADA
-http://xtv.ooo:8080/Zubair7248/724848/112976
-#EXTINF: -1 tvg-name="IN: STAR UTSAV" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="INDIAN | ENTERTAINMENT", IN: STAR UTSAV
-http://xtv.ooo:8080/Zubair7248/724848/112977
-#EXTINF: -1 tvg-name="IND: DHAMAAL TV*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT", IND: DHAMAAL TV*
-http://xtv.ooo:8080/Zubair7248/724848/112978
-#EXTINF: -1 tvg-id="sonywah.in" tvg-name="IN | Sony Wah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="INDIAN | ENTERTAINMENT", IN | Sony Wah
-http://xtv.ooo:8080/Zubair7248/724848/112979
-#EXTINF: -1 tvg-name="IN: COMEDY ACTIVE*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="INDIAN | ENTERTAINMENT", IN: COMEDY ACTIVE*
-http://xtv.ooo:8080/Zubair7248/724848/112980
-#EXTINF: -1 tvg-name="IND: Colors Cineplex Bollywood" group-title="INDIAN | ENTERTAINMENT", IND: Colors Cineplex Bollywood
-http://xtv.ooo:8080/Zubair7248/724848/112983
-#EXTINF: -1 tvg-name="IN: MBC BOLLYWOOD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="INDIAN | ENTERTAINMENT", IN: MBC BOLLYWOOD*
-http://xtv.ooo:8080/Zubair7248/724848/112984
-#EXTINF: -1 tvg-name="IN: GEM BOLLYWOOD" group-title="INDIAN | ENTERTAINMENT", IN: GEM BOLLYWOOD
-http://xtv.ooo:8080/Zubair7248/724848/112986
-#EXTINF: -1 tvg-name="IN: BINDAS MOVIES" group-title="INDIAN | ENTERTAINMENT", IN: BINDAS MOVIES
-http://xtv.ooo:8080/Zubair7248/724848/112987
-#EXTINF: -1 tvg-name="IND: Dabangg" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dabangg-tv-channel-logo-300x300.jpg" group-title="INDIAN | ENTERTAINMENT", IND: Dabangg
-http://xtv.ooo:8080/Zubair7248/724848/206270
-#EXTINF: -1 tvg-name="IND: Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/ZeeSmileLogo.jpg" group-title="INDIAN | ENTERTAINMENT", IND: Zee Cinema SD
-http://xtv.ooo:8080/Zubair7248/724848/206271
-#EXTINF: -1 tvg-name="IND: Zee Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Zee_Magic_Logo.jpg" group-title="INDIAN | ENTERTAINMENT", IND: Zee Magic
-http://xtv.ooo:8080/Zubair7248/724848/206273
-#EXTINF: -1 tvg-name="IN: MOVIES ACTIVE FHD" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png" group-title="INDIAN | ENTERTAINMENT", IN: MOVIES ACTIVE FHD
-http://xtv.ooo:8080/Zubair7248/724848/206276
-#EXTINF: -1 tvg-name="IN | ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="INDIAN | ENTERTAINMENT", IN | ZEE AFLAM
-http://xtv.ooo:8080/Zubair7248/724848/206277
-#EXTINF: -1 tvg-name="IND: Aapka Colors" group-title="INDIAN | ENTERTAINMENT", IND: Aapka Colors
-http://xtv.ooo:8080/Zubair7248/724848/206314
-#EXTINF: -1 tvg-name="IN: ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="INDIAN | ENTERTAINMENT", IN: ZEE Bollywood
-http://xtv.ooo:8080/Zubair7248/724848/207200
-#EXTINF: -1 tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="INDIAN | ENTERTAINMENT", IN | BBO HD
+#EXTINF: -1 tvg-id="andpictureshd.in" tvg-name="IN | & Pictures HD" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Opplex | HINDI", IN | & Pictures HD
+http://xtv.ooo:8080/Zubair7248/724848/66181
+#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Opplex | HINDI", IN | &Tv
+http://xtv.ooo:8080/Zubair7248/724848/221253
+#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv [FHD]" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Opplex | HINDI", IN | &Tv [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66173
+#EXTINF: -1 tvg-id="andtvhd.in" tvg-name="IN | &Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="Opplex | HINDI", IN | &Tv HD
+http://xtv.ooo:8080/Zubair7248/724848/66172
+#EXTINF: -1 tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Opplex | HINDI", IN | BBO HD
 http://xtv.ooo:8080/Zubair7248/724848/66277
-#EXTINF: -1 tvg-name="IN: Dillagi Amrita" group-title="INDIAN | ENTERTAINMENT", IN: Dillagi Amrita
-http://xtv.ooo:8080/Zubair7248/724848/243611
-#EXTINF: -1 tvg-name="IND: Bhojpuri_Cinema" group-title="INDIAN | ENTERTAINMENT", IND: Bhojpuri_Cinema
-http://xtv.ooo:8080/Zubair7248/724848/269091
-#EXTINF: -1 tvg-name="Ind: Goldmines Bhojpuri" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESbhojpuri.jpg" group-title="INDIAN | ENTERTAINMENT", Ind: Goldmines Bhojpuri
-http://xtv.ooo:8080/Zubair7248/724848/275337
-#EXTINF: -1 tvg-name="IN: BOLLYWOOD CLASSIC" group-title="INDIAN | ENTERTAINMENT", IN: BOLLYWOOD CLASSIC
+#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Opplex | HINDI", IN | Colors
+http://xtv.ooo:8080/Zubair7248/724848/221254
+#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors [FHD]" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Opplex | HINDI", IN | Colors [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66168
+#EXTINF: -1 tvg-id="colorshd.in" tvg-name="IN | Colors HD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="Opplex | HINDI", IN | Colors HD
+http://xtv.ooo:8080/Zubair7248/724848/66167
+#EXTINF: -1 tvg-id="colorsrishtey.in" tvg-name="IN | Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="Opplex | HINDI", IN | Colors Rishtey
+http://xtv.ooo:8080/Zubair7248/724848/66188
+#EXTINF: -1 tvg-name="IN | Maha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/MahaMovie.png" group-title="Opplex | HINDI", IN | Maha Movies
+http://xtv.ooo:8080/Zubair7248/724848/104206
+#EXTINF: -1 tvg-name="IN | MINIPLEX HD*" tvg-logo="https://static.epg.best/in/Miniplex.in.png" group-title="Opplex | HINDI", IN | MINIPLEX HD*
+http://xtv.ooo:8080/Zubair7248/724848/66194
+#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max (TATAPLAY)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Opplex | HINDI", IN | Sony Max (TATAPLAY)
+http://xtv.ooo:8080/Zubair7248/724848/221259
+#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max [FHD]" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Opplex | HINDI", IN | Sony Max [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66180
+#EXTINF: -1 tvg-id="sonymax.uk" tvg-name="IN | SONY MAX 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="Opplex | HINDI", IN | SONY MAX 2
+http://xtv.ooo:8080/Zubair7248/724848/66189
+#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IN | Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="Opplex | HINDI", IN | Sony Max HD
+http://xtv.ooo:8080/Zubair7248/724848/66179
+#EXTINF: -1 tvg-id="sonypal.in" tvg-name="IN | Sony Pal*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Opplex | HINDI", IN | Sony Pal*
+http://xtv.ooo:8080/Zubair7248/724848/104192
+#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Opplex | HINDI", IN | Sony Sab
+http://xtv.ooo:8080/Zubair7248/724848/221256
+#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN | Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Opplex | HINDI", IN | Sony Sab HD
+http://xtv.ooo:8080/Zubair7248/724848/66174
+#EXTINF: -1 tvg-id="sonysab.uk" tvg-name="IN | Sony Sab UK*" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="Opplex | HINDI", IN | Sony Sab UK*
+http://xtv.ooo:8080/Zubair7248/724848/66175
+#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET (TATAPLAY)" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Opplex | HINDI", IN | Sony SET (TATAPLAY)
+http://xtv.ooo:8080/Zubair7248/724848/221251
+#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET [FHD]" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Opplex | HINDI", IN | Sony SET [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66165
+#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="IN | Sony SET HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="Opplex | HINDI", IN | Sony SET HD
+http://xtv.ooo:8080/Zubair7248/724848/66164
+#EXTINF: -1 tvg-id="sonywah.in" tvg-name="IN | Sony Wah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Opplex | HINDI", IN | Sony Wah
+http://xtv.ooo:8080/Zubair7248/724848/112979
+#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Opplex | HINDI", IN | Star Bharat
+http://xtv.ooo:8080/Zubair7248/724848/221255
+#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat [FHD]" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Opplex | HINDI", IN | Star Bharat [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66171
+#EXTINF: -1 tvg-id="starbharathd.in" tvg-name="IN | Star Bharat HD" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="Opplex | HINDI", IN | Star Bharat HD
+http://xtv.ooo:8080/Zubair7248/724848/66170
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold [FHD]" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Opplex | HINDI", IN | Star Gold [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66178
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Opplex | HINDI", IN | Star Gold HD
+http://xtv.ooo:8080/Zubair7248/724848/66177
+#EXTINF: -1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Opplex | HINDI", IN | Star Gold Select
+http://xtv.ooo:8080/Zubair7248/724848/221257
+#EXTINF: -1 tvg-id="stargoldselecthd.in" tvg-name="IN | Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="Opplex | HINDI", IN | Star Gold Select HD
+http://xtv.ooo:8080/Zubair7248/724848/66176
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Opplex | HINDI", IN | STAR GOLD THRILLS
+http://xtv.ooo:8080/Zubair7248/724848/221258
+#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Opplex | HINDI", IN | Star Plus
+http://xtv.ooo:8080/Zubair7248/724848/221252
+#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus FHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Opplex | HINDI", IN | Star Plus FHD
+http://xtv.ooo:8080/Zubair7248/724848/66208
+#EXTINF: -1 tvg-id="starplushd.in" tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="Opplex | HINDI", IN | Star Plus HD
+http://xtv.ooo:8080/Zubair7248/724848/66166
+#EXTINF: -1 tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="Opplex | HINDI", IN | ZEE ACTION
+http://xtv.ooo:8080/Zubair7248/724848/66191
+#EXTINF: -1 tvg-name="IN | ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="Opplex | HINDI", IN | ZEE AFLAM
+http://xtv.ooo:8080/Zubair7248/724848/206277
+#EXTINF: -1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="Opplex | HINDI", IN | Zee Anmol Cinema
+http://xtv.ooo:8080/Zubair7248/724848/66187
+#EXTINF: -1 tvg-id="zeeanmolcinema.in" tvg-name="IN | Zee Anmol*" tvg-logo="https://e7.pngegg.com/pngimages/330/556/png-clipart-zee-anmol-cinema-zee-entertainment-enterprises-dd-free-dish-television-channel-others-purple-television.png" group-title="Opplex | HINDI", IN | Zee Anmol*
+http://xtv.ooo:8080/Zubair7248/724848/66357
+#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Opplex | HINDI", IN | ZEE CINEMA [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/206308
+#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA FHD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Opplex | HINDI", IN | ZEE CINEMA FHD (TATASKY)
+http://xtv.ooo:8080/Zubair7248/724848/221261
+#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IN | ZEE CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Opplex | HINDI", IN | ZEE CINEMA HD
+http://xtv.ooo:8080/Zubair7248/724848/206307
+#EXTINF: -1 tvg-name="IN | ZEE CLASSIC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest/scale-to-width-down/270?cb=20200907154854" group-title="Opplex | HINDI", IN | ZEE CLASSIC
+http://xtv.ooo:8080/Zubair7248/724848/66201
+#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Opplex | HINDI", IN | Zee TV
+http://xtv.ooo:8080/Zubair7248/724848/221250
+#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV [FHD]" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Opplex | HINDI", IN | Zee TV [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66163
+#EXTINF: -1 tvg-id="zeetvhd.in" tvg-name="IN | Zee TV HD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="Opplex | HINDI", IN | Zee TV HD
+http://xtv.ooo:8080/Zubair7248/724848/66162
+#EXTINF: -1 tvg-name="IN: |UK| ZEE CINEMA UK" tvg-logo="http://109.238.11.8:25461/logo/tv/zz/zee_cinema_asia.png" group-title="Opplex | HINDI", IN: |UK| ZEE CINEMA UK
+http://xtv.ooo:8080/Zubair7248/724848/112970
+#EXTINF: -1 tvg-name="IN: Bflix Movies*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Opplex | HINDI", IN: Bflix Movies*
+http://xtv.ooo:8080/Zubair7248/724848/104190
+#EXTINF: -1 tvg-name="IN: BINDAS MOVIES" group-title="Opplex | HINDI", IN: BINDAS MOVIES
+http://xtv.ooo:8080/Zubair7248/724848/112987
+#EXTINF: -1 tvg-name="IN: BOLLYWOOD CLASSIC" group-title="Opplex | HINDI", IN: BOLLYWOOD CLASSIC
 http://xtv.ooo:8080/Zubair7248/724848/250317
-#EXTINF: -1 tvg-name="IND: BBO CLASSIC" group-title="INDIAN | ENTERTAINMENT", IND: BBO CLASSIC
-http://xtv.ooo:8080/Zubair7248/724848/308228
-#EXTINF: -1 tvg-name="IN: Dangal" group-title="INDIAN | ENTERTAINMENT", IN: Dangal
+#EXTINF: -1 tvg-id="colorsrishtey.in" tvg-name="IN: Color Cineplex SuperHits" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="Opplex | HINDI", IN: Color Cineplex SuperHits
+http://xtv.ooo:8080/Zubair7248/724848/66199
+#EXTINF: -1 tvg-id="colorscineplexhd.in" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kp7b_-laBpBjH0VGRzxU5IgXS7qhzIkJIg&usqp=CAU" group-title="Opplex | HINDI", IN: COLORS CINEPLEX
+http://xtv.ooo:8080/Zubair7248/724848/104191
+#EXTINF: -1 tvg-name="IN: COLORS CINEPLEX FHD" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Opplex | HINDI", IN: COLORS CINEPLEX FHD
+http://xtv.ooo:8080/Zubair7248/724848/206310
+#EXTINF: -1 tvg-name="IN: COMEDY ACTIVE*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Opplex | HINDI", IN: COMEDY ACTIVE*
+http://xtv.ooo:8080/Zubair7248/724848/112980
+#EXTINF: -1 tvg-name="IN: Dangal" group-title="Opplex | HINDI", IN: Dangal
 http://xtv.ooo:8080/Zubair7248/724848/355655
-#EXTINF: -1 tvg-name="IN: Dangal 2" group-title="INDIAN | ENTERTAINMENT", IN: Dangal 2
+#EXTINF: -1 tvg-name="IN: Dangal 2" group-title="Opplex | HINDI", IN: Dangal 2
 http://xtv.ooo:8080/Zubair7248/724848/356002
-#EXTINF: -1 tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Star World HD
-http://xtv.ooo:8080/Zubair7248/724848/66211
-#EXTINF: -1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Star Movies FHD
-http://xtv.ooo:8080/Zubair7248/724848/66213
-#EXTINF: -1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="INDIAN | ENGLISH MOVIES", IN | Sony Pix HD
-http://xtv.ooo:8080/Zubair7248/724848/66224
-#EXTINF: -1 tvg-id="andprivehd.in" tvg-name="IN | &Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="INDIAN | ENGLISH MOVIES", IN | &Prive HD
-http://xtv.ooo:8080/Zubair7248/724848/66228
-#EXTINF: -1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | HBO HD
-http://xtv.ooo:8080/Zubair7248/724848/66229
-#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN | ENGLISH MOVIES", IN | & Flix HD
-http://xtv.ooo:8080/Zubair7248/724848/66236
-#EXTINF: -1 tvg-name="IN: & Explor FHD" group-title="INDIAN | ENGLISH MOVIES", IN: & Explor FHD
-http://xtv.ooo:8080/Zubair7248/724848/66241
-#EXTINF: -1 tvg-id="mnx.in" tvg-name="IN: MNX HD" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="INDIAN | ENGLISH MOVIES", IN: MNX HD
-http://xtv.ooo:8080/Zubair7248/724848/66266
-#EXTINF: -1 tvg-name="IN | Movies Now HD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Movies Now HD
-http://xtv.ooo:8080/Zubair7248/724848/66271
-#EXTINF: -1 tvg-id="foxlifehd.in" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="INDIAN | ENGLISH MOVIES", IN | Fox Life FHD
-http://xtv.ooo:8080/Zubair7248/724848/66278
-#EXTINF: -1 tvg-id="romedynowhdin.in" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Romedy Now
-http://xtv.ooo:8080/Zubair7248/724848/66282
-#EXTINF: -1 tvg-id="zeecafehd.in" tvg-name="IN | Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Zee Cafe HD
-http://xtv.ooo:8080/Zubair7248/724848/66287
-#EXTINF: -1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="INDIAN | ENGLISH MOVIES", IN | Star Movies Select HD
-http://xtv.ooo:8080/Zubair7248/724848/66315
-#EXTINF: -1 tvg-name="IN | BIZ CINEMA" group-title="INDIAN | ENGLISH MOVIES", IN | BIZ CINEMA
-http://xtv.ooo:8080/Zubair7248/724848/66321
-#EXTINF: -1 tvg-name="& Prive (FHD)" group-title="INDIAN | ENGLISH MOVIES", & Prive (FHD)
+#EXTINF: -1 tvg-name="IN: DD National" tvg-logo="https://static.epg.best/in/DDNational.in.png" group-title="Opplex | HINDI", IN: DD National
+http://xtv.ooo:8080/Zubair7248/724848/112975
+#EXTINF: -1 tvg-name="IN: Dhamaka Movies B4U" tvg-logo="https://bestmediainfo.com/uploads/2022/11/1669629361.Dhamaka_Movies_logo.jpg" group-title="Opplex | HINDI", IN: Dhamaka Movies B4U
+http://xtv.ooo:8080/Zubair7248/724848/66184
+#EXTINF: -1 tvg-name="IN: Dillagi Amrita" group-title="Opplex | HINDI", IN: Dillagi Amrita
+http://xtv.ooo:8080/Zubair7248/724848/243611
+#EXTINF: -1 tvg-name="IN: GEM BOLLYWOOD" group-title="Opplex | HINDI", IN: GEM BOLLYWOOD
+http://xtv.ooo:8080/Zubair7248/724848/112986
+#EXTINF: -1 tvg-name="IN: GOLDMINES" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" group-title="Opplex | HINDI", IN: GOLDMINES
+http://xtv.ooo:8080/Zubair7248/724848/112972
+#EXTINF: -1 tvg-name="IN: GOLDMINES BOLLYWOOD" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" group-title="Opplex | HINDI", IN: GOLDMINES BOLLYWOOD
+http://xtv.ooo:8080/Zubair7248/724848/112973
+#EXTINF: -1 tvg-name="IN: MBC BOLLYWOOD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Opplex | HINDI", IN: MBC BOLLYWOOD*
+http://xtv.ooo:8080/Zubair7248/724848/112984
+#EXTINF: -1 tvg-name="IN: MOVIES ACTIVE FHD" tvg-logo="https://www.dishtv.in/Images/Active-Services/CineActivelogo.png" group-title="Opplex | HINDI", IN: MOVIES ACTIVE FHD
+http://xtv.ooo:8080/Zubair7248/724848/206276
+#EXTINF: -1 tvg-name="IN: Oscar Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/09/utv-movies-1-2-2.jpg" group-title="Opplex | HINDI", IN: Oscar Movies
+http://xtv.ooo:8080/Zubair7248/724848/66185
+#EXTINF: -1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB [FHD]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Opplex | HINDI", IN: SONY SAB [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/104194
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD HD (TATASKY)" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/39/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Opplex | HINDI", IN: STAR GOLD HD (TATASKY)
+http://xtv.ooo:8080/Zubair7248/724848/112982
+#EXTINF: -1 tvg-id="utvmovies.in" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="https://static.epg.best/in/UTVAction.in.png" group-title="Opplex | HINDI", IN: STAR GOLD ROMANCE
+http://xtv.ooo:8080/Zubair7248/724848/66186
+#EXTINF: -1 tvg-name="IN: STAR UTSAV" tvg-logo="https://img.indiaforums.com/channel/320x180/0/006-star-utsav.jpg" group-title="Opplex | HINDI", IN: STAR UTSAV
+http://xtv.ooo:8080/Zubair7248/724848/112977
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="IN: STAR UTSAV MOVIES**" group-title="Opplex | HINDI", IN: STAR UTSAV MOVIES**
+http://xtv.ooo:8080/Zubair7248/724848/112971
+#EXTINF: -1 tvg-name="IN: WOW CINEMA" tvg-logo="https://static.epg.best/in/WOWCinema.in.png" group-title="Opplex | HINDI", IN: WOW CINEMA
+http://xtv.ooo:8080/Zubair7248/724848/106132
+#EXTINF: -1 tvg-name="IN: ZEE Bollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Opplex | HINDI", IN: ZEE Bollywood
+http://xtv.ooo:8080/Zubair7248/724848/207200
+#EXTINF: -1 tvg-name="IN: ZEE TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="Opplex | HINDI", IN: ZEE TV CANADA
+http://xtv.ooo:8080/Zubair7248/724848/112976
+#EXTINF: -1 tvg-name="IN: ZEE ZEST HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Zee_Zest_logo.jpeg" group-title="Opplex | HINDI", IN: ZEE ZEST HD*
+http://xtv.ooo:8080/Zubair7248/724848/104212
+#EXTINF: -1 tvg-name="IND: Aapka Colors" group-title="Opplex | HINDI", IND: Aapka Colors
+http://xtv.ooo:8080/Zubair7248/724848/206314
+#EXTINF: -1 tvg-name="IND: ABZY MOVIES**" group-title="Opplex | HINDI", IND: ABZY MOVIES**
+http://xtv.ooo:8080/Zubair7248/724848/104200
+#EXTINF: -1 tvg-name="IND: B4U Kadak*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="Opplex | HINDI", IND: B4U Kadak*
+http://xtv.ooo:8080/Zubair7248/724848/104199
+#EXTINF: -1 tvg-name="IND: B4U Movies" group-title="Opplex | HINDI", IND: B4U Movies
+http://xtv.ooo:8080/Zubair7248/724848/104201
+#EXTINF: -1 tvg-name="IND: BBO CLASSIC" group-title="Opplex | HINDI", IND: BBO CLASSIC
+http://xtv.ooo:8080/Zubair7248/724848/308228
+#EXTINF: -1 tvg-name="IND: Bhojpuri_Cinema" group-title="Opplex | HINDI", IND: Bhojpuri_Cinema
+http://xtv.ooo:8080/Zubair7248/724848/269091
+#EXTINF: -1 tvg-name="IND: BIG MAGIC" tvg-logo="https://static.epg.best/in/BigMagic.in.png" group-title="Opplex | HINDI", IND: BIG MAGIC
+http://xtv.ooo:8080/Zubair7248/724848/104198
+#EXTINF: -1 tvg-name="IND: Box Cinema**" group-title="Opplex | HINDI", IND: Box Cinema**
+http://xtv.ooo:8080/Zubair7248/724848/206269
+#EXTINF: -1 tvg-name="IND: Colors Cineplex Bollywood" group-title="Opplex | HINDI", IND: Colors Cineplex Bollywood
+http://xtv.ooo:8080/Zubair7248/724848/112983
+#EXTINF: -1 tvg-name="IND: Dabangg" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dabangg-tv-channel-logo-300x300.jpg" group-title="Opplex | HINDI", IND: Dabangg
+http://xtv.ooo:8080/Zubair7248/724848/206270
+#EXTINF: -1 tvg-name="IND: DHAMAAL TV*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Opplex | HINDI", IND: DHAMAAL TV*
+http://xtv.ooo:8080/Zubair7248/724848/112978
+#EXTINF: -1 tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="Opplex | HINDI", IND: Discovery Hindi *
+http://xtv.ooo:8080/Zubair7248/724848/206287
+#EXTINF: -1 tvg-name="IND: ENTER 10 Movies" group-title="Opplex | HINDI", IND: ENTER 10 Movies
+http://xtv.ooo:8080/Zubair7248/724848/104202
+#EXTINF: -1 tvg-name="Ind: Goldmines Bhojpuri" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESbhojpuri.jpg" group-title="Opplex | HINDI", Ind: Goldmines Bhojpuri
+http://xtv.ooo:8080/Zubair7248/724848/275337
+#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="IND: History_18_Hindi" group-title="Opplex | HINDI", IND: History_18_Hindi
+http://xtv.ooo:8080/Zubair7248/724848/206294
+#EXTINF: -1 tvg-name="IND: MANORANJAN MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Opplex | HINDI", IND: MANORANJAN MOVIES
+http://xtv.ooo:8080/Zubair7248/724848/104204
+#EXTINF: -1 tvg-name="IND: MANORANJAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="Opplex | HINDI", IND: MANORANJAN TV
+http://xtv.ooo:8080/Zubair7248/724848/104203
+#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="IND: Sony MAX 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Opplex | HINDI", IND: Sony MAX 2 FHD
+http://xtv.ooo:8080/Zubair7248/724848/206312
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="IND: Star Gold 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="Opplex | HINDI", IND: Star Gold 2
+http://xtv.ooo:8080/Zubair7248/724848/106133
+#EXTINF: -1 tvg-name="IND: Zee Cinema SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/ZeeSmileLogo.jpg" group-title="Opplex | HINDI", IND: Zee Cinema SD
+http://xtv.ooo:8080/Zubair7248/724848/206271
+#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Opplex | HINDI", IND: Zee Cinema USA
+http://xtv.ooo:8080/Zubair7248/724848/206268
+#EXTINF: -1 tvg-name="IND: Zee Magic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Zee_Magic_Logo.jpg" group-title="Opplex | HINDI", IND: Zee Magic
+http://xtv.ooo:8080/Zubair7248/724848/206273
+#EXTINF: -1 tvg-id="sonymaxhd.in" tvg-name="MAX (4K)" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" group-title="Opplex | HINDI", MAX (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109957
+#EXTINF: -1 tvg-id="sonyhd.in" tvg-name="SONY SET (4K)" tvg-logo="http://openboxv8s.com/india/set_asia.jpg" group-title="Opplex | HINDI", SONY SET (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109948
+#EXTINF: -1 tvg-id="stargoldhd.in" tvg-name="Star GOLD (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="Opplex | HINDI", Star GOLD (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109959
+#EXTINF: -1 tvg-name="Star Gold Select (4K)" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" group-title="Opplex | HINDI", Star Gold Select (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109960
+#EXTINF: -1 tvg-id="starplushd.in" tvg-name="Star Plus (4K)" tvg-logo="http://openboxv8s.com/india/star_plus_in_hd.jpg" group-title="Opplex | HINDI", Star Plus (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109949
+#EXTINF: -1 tvg-id="zeecinemaindiahd.in" tvg-name="ZEE CINEMA (4K)" tvg-logo="http://openboxv8s.com/india/zee_cinema.jpg" group-title="Opplex | HINDI", ZEE CINEMA (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109958
+#EXTINF: -1 tvg-id="foxsports501hd.au" tvg-name="AU: FOX CRICKET 501" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Opplex | SPORTS", AU: FOX CRICKET 501
+http://xtv.ooo:8080/Zubair7248/724848/167593
+#EXTINF: -1 tvg-name="CRI: Ten Cricket" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Opplex | SPORTS", CRI: Ten Cricket
+http://xtv.ooo:8080/Zubair7248/724848/167587
+#EXTINF: -1 tvg-name="CricLife 1" group-title="Opplex | SPORTS", CricLife 1
+http://xtv.ooo:8080/Zubair7248/724848/371469
+#EXTINF: -1 tvg-name="CricLife 2" group-title="Opplex | SPORTS", CricLife 2
+http://xtv.ooo:8080/Zubair7248/724848/371470
+#EXTINF: -1 tvg-name="CricLife 3" group-title="Opplex | SPORTS", CricLife 3
+http://xtv.ooo:8080/Zubair7248/724848/371471
+#EXTINF: -1 tvg-id="astrosupersport.my" tvg-name="IN | Astro Cricket HD" tvg-logo="https://static.epg.best/my/AstroOnDemand361.my.png" group-title="Opplex | SPORTS", IN | Astro Cricket HD
+http://xtv.ooo:8080/Zubair7248/724848/167581
+#EXTINF: -1 tvg-id="sonysixhd.in" tvg-name="IN | SONY TEN 5" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="Opplex | SPORTS", IN | SONY TEN 5
+http://xtv.ooo:8080/Zubair7248/724848/167580
+#EXTINF: -1 tvg-id="starsports1hd.in" tvg-name="IN | Star Sports 1 HD" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Opplex | SPORTS", IN | Star Sports 1 HD
+http://xtv.ooo:8080/Zubair7248/724848/167575
+#EXTINF: -1 tvg-id="starsports2hd.in" tvg-name="IN | Star Sports 2 HD" tvg-logo="https://static.epg.best/in/StarSports2.in.png" group-title="Opplex | SPORTS", IN | Star Sports 2 HD
+http://xtv.ooo:8080/Zubair7248/724848/167576
+#EXTINF: -1 tvg-id="starsports3.in" tvg-name="IN | Star Sports 3 HD" tvg-logo="https://i.pinimg.com/originals/c7/5d/56/c75d563b3cda837cd3fb1ce5ff5089cd.png" group-title="Opplex | SPORTS", IN | Star Sports 3 HD
+http://xtv.ooo:8080/Zubair7248/724848/167577
+#EXTINF: -1 tvg-id="starsportsselect1hd.in" tvg-name="IN | STAR SPORTS SELECT 1" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Opplex | SPORTS", IN | STAR SPORTS SELECT 1
+http://xtv.ooo:8080/Zubair7248/724848/167578
+#EXTINF: -1 tvg-id="starsportsselecthd2.in" tvg-name="IN | STAR SPORTS SELECT 2" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Opplex | SPORTS", IN | STAR SPORTS SELECT 2
+http://xtv.ooo:8080/Zubair7248/724848/167579
+#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="IN | Ten 1 HD" tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Opplex | SPORTS", IN | Ten 1 HD
+http://xtv.ooo:8080/Zubair7248/724848/167570
+#EXTINF: -1 tvg-id="sonyten2hd.in" tvg-name="IN | Ten 2 HD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Opplex | SPORTS", IN | Ten 2 HD
+http://xtv.ooo:8080/Zubair7248/724848/167571
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="IN | Ten 3 HD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Opplex | SPORTS", IN | Ten 3 HD
+http://xtv.ooo:8080/Zubair7248/724848/167572
+#EXTINF: -1 tvg-name="IN | Willow Xtra" tvg-logo="https://5gtv.online:2053/logo/willowxtra1.png" group-title="Opplex | SPORTS", IN | Willow Xtra
+http://xtv.ooo:8080/Zubair7248/724848/167582
+#EXTINF: -1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Opplex | SPORTS", IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/Zubair7248/724848/206324
+#EXTINF: -1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT HD" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="Opplex | SPORTS", IN: EUROPSPORT HD
+http://xtv.ooo:8080/Zubair7248/724848/167585
+#EXTINF: -1 tvg-name="IN: Sony Ten 4" group-title="Opplex | SPORTS", IN: Sony Ten 4
+http://xtv.ooo:8080/Zubair7248/724848/167595
+#EXTINF: -1 tvg-name="IN: Sports 18 (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="Opplex | SPORTS", IN: Sports 18 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/302600
+#EXTINF: -1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 Hindi" tvg-logo="https://static.epg.best/cn/StarSports1.cn.png" group-title="Opplex | SPORTS", IN: STAR SPORTS 1 Hindi
+http://xtv.ooo:8080/Zubair7248/724848/167573
+#EXTINF: -1 tvg-id="WillowCricket.us" tvg-name="IN: Willow Cricket HD" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Opplex | SPORTS", IN: Willow Cricket HD
+http://xtv.ooo:8080/Zubair7248/724848/167583
+#EXTINF: -1 tvg-name="PK: FAST SPORTS" tvg-logo="https://www.fastsports.tv/img/fs_logo.png" group-title="Opplex | SPORTS", PK: FAST SPORTS
+http://xtv.ooo:8080/Zubair7248/724848/308225
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="PK: TEN SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="Opplex | SPORTS", PK: TEN SPORTS
+http://xtv.ooo:8080/Zubair7248/724848/167569
+#EXTINF: -1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="Opplex | SPORTS", SONY SIX (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109992
+#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="Opplex | SPORTS", Sony Ten 1 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109983
+#EXTINF: -1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="Opplex | SPORTS", Sony Ten 2 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109984
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="Opplex | SPORTS", Sony Ten 3 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109985
+#EXTINF: -1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Opplex | SPORTS", Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109986
+#EXTINF: -1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Opplex | SPORTS", Star Sports 1 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109987
+#EXTINF: -1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" group-title="Opplex | SPORTS", Star Sports 2 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109988
+#EXTINF: -1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="Opplex | SPORTS", Star Sports Select 1 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109993
+#EXTINF: -1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="Opplex | SPORTS", Star Sports Select 2 (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109994
+#EXTINF: -1 tvg-id="supersportcricket.za" tvg-name="SuperSport Cricket" tvg-logo="https://seeklogo.com/images/S/Super_Sport-logo-3B6B403F2C-seeklogo.com.png" group-title="Opplex | SPORTS", SuperSport Cricket
+http://xtv.ooo:8080/Zubair7248/724848/167592
+#EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Opplex | SPORTS", T-SPORTS
+http://xtv.ooo:8080/Zubair7248/724848/167590
+#EXTINF: -1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="https://cpng.pikpng.com/pngl/s/345-3458751_sky-sports-cricket-hd-live-online-sky-sports.png" group-title="Opplex | SPORTS", UK: Sky Sports Cricket
+http://xtv.ooo:8080/Zubair7248/724848/167594
+#EXTINF: -1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="Opplex | MUSIC", IN | 9x Jalwa
+http://xtv.ooo:8080/Zubair7248/724848/66226
+#EXTINF: -1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="Opplex | MUSIC", IN | 9xm
+http://xtv.ooo:8080/Zubair7248/724848/66192
+#EXTINF: -1 tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="Opplex | MUSIC", IN | B4u Music
+http://xtv.ooo:8080/Zubair7248/724848/66203
+#EXTINF: -1 tvg-name="IN | MTV BEAT [FHD]" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Opplex | MUSIC", IN | MTV BEAT [FHD]
+http://xtv.ooo:8080/Zubair7248/724848/66273
+#EXTINF: -1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="Opplex | MUSIC", IN | Zoom TV
+http://xtv.ooo:8080/Zubair7248/724848/66190
+#EXTINF: -1 tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="Opplex | MUSIC", IND: MTV HD +
+http://xtv.ooo:8080/Zubair7248/724848/206049
+#EXTINF: -1 tvg-name="IND: MTV India" tvg-logo="http://www.prowrestlingleague.com/images/logo.png" group-title="Opplex | MUSIC", IND: MTV India
+http://xtv.ooo:8080/Zubair7248/724848/206054
+#EXTINF: -1 tvg-name="MUSIC INDIA*" group-title="Opplex | MUSIC", MUSIC INDIA*
+http://xtv.ooo:8080/Zubair7248/724848/190028
+#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="& flix (4K)" tvg-logo="http://openboxv8s.com/india/and-flix-in.png" group-title="OPPLEX | ENGLISH", & flix (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109962
+#EXTINF: -1 tvg-id="hbohd.in" tvg-name="& Prive (4K)" group-title="OPPLEX | ENGLISH", & Prive (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109963
+#EXTINF: -1 tvg-name="& Prive (FHD)" group-title="OPPLEX | ENGLISH", & Prive (FHD)
 http://xtv.ooo:8080/Zubair7248/724848/269100
-#EXTINF: -1 tvg-name="IN | MN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="INDIAN | ENGLISH MOVIES", IN | MN+ HD
+#EXTINF: -1 tvg-id="discoveryhd.in" tvg-name="DISCOVERY (4K)" tvg-logo="http://openboxv8s.com/india/discovery-channel-east-us.png" group-title="OPPLEX | ENGLISH", DISCOVERY (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109974
+#EXTINF: -1 tvg-id="andflixhd.in" tvg-name="IN | & Flix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="OPPLEX | ENGLISH", IN | & Flix HD
+http://xtv.ooo:8080/Zubair7248/724848/66236
+#EXTINF: -1 tvg-id="andprivehd.in" tvg-name="IN | &Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="OPPLEX | ENGLISH", IN | &Prive HD
+http://xtv.ooo:8080/Zubair7248/724848/66228
+#EXTINF: -1 tvg-id="foxlifehd.in" tvg-name="IN | Fox Life FHD" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="OPPLEX | ENGLISH", IN | Fox Life FHD
+http://xtv.ooo:8080/Zubair7248/724848/66278
+#EXTINF: -1 tvg-id="axnhd.in" tvg-name="IN | HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="OPPLEX | ENGLISH", IN | HBO HD
+http://xtv.ooo:8080/Zubair7248/724848/66229
+#EXTINF: -1 tvg-name="IN | MN+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="OPPLEX | ENGLISH", IN | MN+ HD
 http://xtv.ooo:8080/Zubair7248/724848/66244
-#EXTINF: -1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="BANGLADESH", IND-Bangla: Zee Bangla HD
+#EXTINF: -1 tvg-name="IN | Movies Now HD" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="OPPLEX | ENGLISH", IN | Movies Now HD
+http://xtv.ooo:8080/Zubair7248/724848/66271
+#EXTINF: -1 tvg-id="romedynowhdin.in" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="OPPLEX | ENGLISH", IN | Romedy Now
+http://xtv.ooo:8080/Zubair7248/724848/66282
+#EXTINF: -1 tvg-id="sonypixhd.in" tvg-name="IN | Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="OPPLEX | ENGLISH", IN | Sony Pix HD
+http://xtv.ooo:8080/Zubair7248/724848/66224
+#EXTINF: -1 tvg-id="starmovieshd.in" tvg-name="IN | Star Movies FHD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="OPPLEX | ENGLISH", IN | Star Movies FHD
+http://xtv.ooo:8080/Zubair7248/724848/66213
+#EXTINF: -1 tvg-id="starmoviesselecthd.in" tvg-name="IN | Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="OPPLEX | ENGLISH", IN | Star Movies Select HD
+http://xtv.ooo:8080/Zubair7248/724848/66315
+#EXTINF: -1 tvg-name="IN | Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="OPPLEX | ENGLISH", IN | Star World HD
+http://xtv.ooo:8080/Zubair7248/724848/66211
+#EXTINF: -1 tvg-name="IN: & Explor FHD" group-title="OPPLEX | ENGLISH", IN: & Explor FHD
+http://xtv.ooo:8080/Zubair7248/724848/66241
+#EXTINF: -1 tvg-id="mnx.in" tvg-name="IN: MNX HD" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="OPPLEX | ENGLISH", IN: MNX HD
+http://xtv.ooo:8080/Zubair7248/724848/66266
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="MN+ (4K)" tvg-logo="https://tvwiz.in/images/channel-images/MN+%20HD.v2.w132.png" group-title="OPPLEX | ENGLISH", MN+ (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109965
+#EXTINF: -1 tvg-id="moviesnowhd.in" tvg-name="Movies Now (4K)" tvg-logo="http://openboxv8s.com/india/movies_now.png" group-title="OPPLEX | ENGLISH", Movies Now (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109968
+#EXTINF: -1 tvg-name="SONY PIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_pix_in.png" group-title="OPPLEX | ENGLISH", SONY PIX (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109966
+#EXTINF: -1 tvg-id="sonyten3hd.in" tvg-name="STAR MOVIES (4K)" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="OPPLEX | ENGLISH", STAR MOVIES (4K)
+http://xtv.ooo:8080/Zubair7248/724848/109970
+#EXTINF: -1 tvg-id="zeebanglahd.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="http://openboxv8s.com/india/zee_bangla.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", IND-Bangla: Zee Bangla HD
 http://xtv.ooo:8080/Zubair7248/724848/245893
-#EXTINF: -1 tvg-name="BD-loc: Colors Bangla" group-title="BANGLADESH", BD-loc: Colors Bangla
+#EXTINF: -1 tvg-name="BD-loc: Colors Bangla" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: Colors Bangla
 http://xtv.ooo:8080/Zubair7248/724848/245895
-#EXTINF: -1 tvg-id="zeebanglacinema.in" tvg-name="IND-Bangla: ZEE_BANGLA_CINE" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="BANGLADESH", IND-Bangla: ZEE_BANGLA_CINE
+#EXTINF: -1 tvg-id="zeebanglacinema.in" tvg-name="IND-Bangla: ZEE_BANGLA_CINE" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", IND-Bangla: ZEE_BANGLA_CINE
 http://xtv.ooo:8080/Zubair7248/724848/245896
-#EXTINF: -1 tvg-id="zeebanglacinema.in" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="BANGLADESH", IND-Bangla: Zee Bangla Cinema
+#EXTINF: -1 tvg-id="zeebanglacinema.in" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", IND-Bangla: Zee Bangla Cinema
 http://xtv.ooo:8080/Zubair7248/724848/245897
-#EXTINF: -1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="BANGLADESH", IND-Bangla: Star Jalsa HD
+#EXTINF: -1 tvg-id="starjalshahd.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="OPPLEX | BANGLA (UNCHECKED)", IND-Bangla: Star Jalsa HD
 http://xtv.ooo:8080/Zubair7248/724848/245898
-#EXTINF: -1 tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="BANGLADESH", IND-Bangla: Jalsa Movies HD
+#EXTINF: -1 tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="http://openboxv8s.com/india/star_jalsha_movies_in.png" group-title="OPPLEX | BANGLA (UNCHECKED)", IND-Bangla: Jalsa Movies HD
 http://xtv.ooo:8080/Zubair7248/724848/245900
-#EXTINF: -1 tvg-name="BD-loc: GaziTV" group-title="BANGLADESH", BD-loc: GaziTV
+#EXTINF: -1 tvg-name="BD-loc: GaziTV" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: GaziTV
 http://xtv.ooo:8080/Zubair7248/724848/245901
-#EXTINF: -1 tvg-name="BD-loc: Channel 9" group-title="BANGLADESH", BD-loc: Channel 9
+#EXTINF: -1 tvg-name="BD-loc: Channel 9" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: Channel 9
 http://xtv.ooo:8080/Zubair7248/724848/245902
-#EXTINF: -1 tvg-name="BD-loc: NEWS 24" group-title="BANGLADESH", BD-loc: NEWS 24
+#EXTINF: -1 tvg-name="BD-loc: NEWS 24" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: NEWS 24
 http://xtv.ooo:8080/Zubair7248/724848/245903
-#EXTINF: -1 tvg-name="BD-loc: Masranga HD" group-title="BANGLADESH", BD-loc: Masranga HD
+#EXTINF: -1 tvg-name="BD-loc: Masranga HD" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: Masranga HD
 http://xtv.ooo:8080/Zubair7248/724848/245904
-#EXTINF: -1 tvg-name="BD-LOC: atnnews" group-title="BANGLADESH", BD-LOC: atnnews
-http://xtv.ooo:8080/Zubair7248/724848/245905
-#EXTINF: -1 tvg-name="BD-LOC: asiantv" group-title="BANGLADESH", BD-LOC: asiantv
+#EXTINF: -1 tvg-name="BD-LOC: asiantv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: asiantv
 http://xtv.ooo:8080/Zubair7248/724848/245908
-#EXTINF: -1 tvg-name="BD-LOC: atn-bangla" group-title="BANGLADESH", BD-LOC: atn-bangla
-http://xtv.ooo:8080/Zubair7248/724848/245909
-#EXTINF: -1 tvg-name="BD-LOC: bangla RTV" group-title="BANGLADESH", BD-LOC: bangla RTV
+#EXTINF: -1 tvg-name="BD-LOC: bangla RTV" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: bangla RTV
 http://xtv.ooo:8080/Zubair7248/724848/245911
-#EXTINF: -1 tvg-name="BD-LOC: channel I" group-title="BANGLADESH", BD-LOC: channel I
+#EXTINF: -1 tvg-name="BD-LOC: channel I" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: channel I
 http://xtv.ooo:8080/Zubair7248/724848/245913
-#EXTINF: -1 tvg-name="BD-LOC: dbcnews" group-title="BANGLADESH", BD-LOC: dbcnews
+#EXTINF: -1 tvg-name="BD-LOC: dbcnews" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: dbcnews
 http://xtv.ooo:8080/Zubair7248/724848/245914
-#EXTINF: -1 tvg-name="BD-LOC: ekattortv" group-title="BANGLADESH", BD-LOC: ekattortv
+#EXTINF: -1 tvg-name="BD-LOC: ekattortv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: ekattortv
 http://xtv.ooo:8080/Zubair7248/724848/245915
-#EXTINF: -1 tvg-name="BD-LOC: independent" group-title="BANGLADESH", BD-LOC: independent
+#EXTINF: -1 tvg-name="BD-LOC: independent" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: independent
 http://xtv.ooo:8080/Zubair7248/724848/245916
-#EXTINF: -1 tvg-name="BD-LOC: jamunatv" group-title="BANGLADESH", BD-LOC: jamunatv
+#EXTINF: -1 tvg-name="BD-LOC: jamunatv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-LOC: jamunatv
 http://xtv.ooo:8080/Zubair7248/724848/245917
-#EXTINF: -1 tvg-name="BD-LOC: RTV PLUS" group-title="BANGLADESH", BD-LOC: RTV PLUS
-http://xtv.ooo:8080/Zubair7248/724848/245918
-#EXTINF: -1 tvg-name="BD-loc: dhoom_music" group-title="BANGLADESH", BD-loc: dhoom_music
+#EXTINF: -1 tvg-name="BD-loc: dhoom_music" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: dhoom_music
 http://xtv.ooo:8080/Zubair7248/724848/245921
-#EXTINF: -1 tvg-name="BD-loc: Btv world" group-title="BANGLADESH", BD-loc: Btv world
-http://xtv.ooo:8080/Zubair7248/724848/245922
-#EXTINF: -1 tvg-name="BD-loc: boishakhi" group-title="BANGLADESH", BD-loc: boishakhi
+#EXTINF: -1 tvg-name="BD-loc: boishakhi" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: boishakhi
 http://xtv.ooo:8080/Zubair7248/724848/245923
-#EXTINF: -1 tvg-name="BD-loc: ntv" group-title="BANGLADESH", BD-loc: ntv
+#EXTINF: -1 tvg-name="BD-loc: ntv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: ntv
 http://xtv.ooo:8080/Zubair7248/724848/245924
-#EXTINF: -1 tvg-name="BD-loc: SOMOY_tv NEWS" group-title="BANGLADESH", BD-loc: SOMOY_tv NEWS
+#EXTINF: -1 tvg-name="BD-loc: SOMOY_tv NEWS" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: SOMOY_tv NEWS
 http://xtv.ooo:8080/Zubair7248/724848/245925
-#EXTINF: -1 tvg-name="BD-loc: Deepto tv" group-title="BANGLADESH", BD-loc: Deepto tv
+#EXTINF: -1 tvg-name="BD-loc: Deepto tv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: Deepto tv
 http://xtv.ooo:8080/Zubair7248/724848/245927
-#EXTINF: -1 tvg-name="BD-loc: AakaashBangla" group-title="BANGLADESH", BD-loc: AakaashBangla
+#EXTINF: -1 tvg-name="BD-loc: AakaashBangla" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: AakaashBangla
 http://xtv.ooo:8080/Zubair7248/724848/245928
-#EXTINF: -1 tvg-name="BD: Ananda TV" group-title="BANGLADESH", BD: Ananda TV
+#EXTINF: -1 tvg-name="BD: Ananda TV" group-title="OPPLEX | BANGLA (UNCHECKED)", BD: Ananda TV
 http://xtv.ooo:8080/Zubair7248/724848/245929
-#EXTINF: -1 tvg-name="BD-loc: BTV-" group-title="BANGLADESH", BD-loc: BTV-
+#EXTINF: -1 tvg-name="BD-loc: BTV-" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: BTV-
 http://xtv.ooo:8080/Zubair7248/724848/245930
-#EXTINF: -1 tvg-name="BD-loc:  btv national" group-title="BANGLADESH", BD-loc:  btv national
+#EXTINF: -1 tvg-name="BD-loc:  btv national" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc:  btv national
 http://xtv.ooo:8080/Zubair7248/724848/245931
-#EXTINF: -1 tvg-name="BD-loc: sangeet bangla" group-title="BANGLADESH", BD-loc: sangeet bangla
+#EXTINF: -1 tvg-name="BD-loc: sangeet bangla" group-title="OPPLEX | BANGLA (UNCHECKED)", BD-loc: sangeet bangla
 http://xtv.ooo:8080/Zubair7248/724848/245933
-#EXTINF: -1 tvg-name="bd-loc: T-Sports-HD" group-title="BANGLADESH", bd-loc: T-Sports-HD
+#EXTINF: -1 tvg-name="bd-loc: T-Sports-HD" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: T-Sports-HD
 http://xtv.ooo:8080/Zubair7248/724848/245934
-#EXTINF: -1 tvg-name="BD: Gaanb Angla Tv" group-title="BANGLADESH", BD: Gaanb Angla Tv
+#EXTINF: -1 tvg-name="BD: Gaanb Angla Tv" group-title="OPPLEX | BANGLA (UNCHECKED)", BD: Gaanb Angla Tv
 http://xtv.ooo:8080/Zubair7248/724848/245935
-#EXTINF: -1 tvg-name="bd-loc:  Desh Tv" group-title="BANGLADESH", bd-loc:  Desh Tv
+#EXTINF: -1 tvg-name="bd-loc:  Desh Tv" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc:  Desh Tv
 http://xtv.ooo:8080/Zubair7248/724848/245936
-#EXTINF: -1 tvg-name="bd-loc: Ekushey TV" group-title="BANGLADESH", bd-loc: Ekushey TV
+#EXTINF: -1 tvg-name="bd-loc: Ekushey TV" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: Ekushey TV
 http://xtv.ooo:8080/Zubair7248/724848/245937
-#EXTINF: -1 tvg-name="bd-loc: SANGSAD BANGLADESH" group-title="BANGLADESH", bd-loc: SANGSAD BANGLADESH
+#EXTINF: -1 tvg-name="bd-loc: SANGSAD BANGLADESH" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: SANGSAD BANGLADESH
 http://xtv.ooo:8080/Zubair7248/724848/245940
-#EXTINF: -1 tvg-name="bd-loc: RTV PLUS GOLD" group-title="BANGLADESH", bd-loc: RTV PLUS GOLD
+#EXTINF: -1 tvg-name="bd-loc: RTV PLUS GOLD" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: RTV PLUS GOLD
 http://xtv.ooo:8080/Zubair7248/724848/245941
-#EXTINF: -1 tvg-name="bd-loc: SA tv bd**" group-title="BANGLADESH", bd-loc: SA tv bd**
+#EXTINF: -1 tvg-name="bd-loc: SA tv bd**" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: SA tv bd**
 http://xtv.ooo:8080/Zubair7248/724848/245945
-#EXTINF: -1 tvg-name="bd-loc: bijoy_tv" group-title="BANGLADESH", bd-loc: bijoy_tv
+#EXTINF: -1 tvg-name="bd-loc: bijoy_tv" group-title="OPPLEX | BANGLA (UNCHECKED)", bd-loc: bijoy_tv
 http://xtv.ooo:8080/Zubair7248/724848/245946
-#EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESH", DURONTO TV
+#EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", DURONTO TV
 http://xtv.ooo:8080/Zubair7248/724848/245955
-#EXTINF: -1 tvg-name="BANGLAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="BANGLADESH", BANGLAVISION
+#EXTINF: -1 tvg-name="BANGLAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="OPPLEX | BANGLA (UNCHECKED)", BANGLAVISION
 http://xtv.ooo:8080/Zubair7248/724848/245957
-#EXTINF: -1 tvg-name="BOISHAKHAI PLUS" tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/maxresdefault.jpg" group-title="BANGLADESH", BOISHAKHAI PLUS
+#EXTINF: -1 tvg-name="BOISHAKHAI PLUS" tvg-logo="https://i.ytimg.com/vi/Ql_wezJxlQU/maxresdefault.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", BOISHAKHAI PLUS
 http://xtv.ooo:8080/Zubair7248/724848/245958
-#EXTINF: -1 tvg-name="MY TV" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="BANGLADESH", MY TV
+#EXTINF: -1 tvg-name="MY TV" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", MY TV
 http://xtv.ooo:8080/Zubair7248/724848/245964
-#EXTINF: -1 tvg-name="ATN MUSIC" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="BANGLADESH", ATN MUSIC
+#EXTINF: -1 tvg-name="ATN MUSIC" tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="OPPLEX | BANGLA (UNCHECKED)", ATN MUSIC
 http://xtv.ooo:8080/Zubair7248/724848/245965
-#EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" group-title="BANGLADESH", DISCOVERY BANGLA
+#EXTINF: -1 tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVm4taJa_vh5IdvTj1Idg_C99OqDD56bLMFQ&usqp=CAU" group-title="OPPLEX | BANGLA (UNCHECKED)", DISCOVERY BANGLA
 http://xtv.ooo:8080/Zubair7248/724848/245966
-#EXTINF: -1 tvg-name="NAT GEO BANGLA" tvg-logo="http://103.55.144.46/img/Nat_Geo_HD.png" group-title="BANGLADESH", NAT GEO BANGLA
+#EXTINF: -1 tvg-name="NAT GEO BANGLA" tvg-logo="http://103.55.144.46/img/Nat_Geo_HD.png" group-title="OPPLEX | BANGLA (UNCHECKED)", NAT GEO BANGLA
 http://xtv.ooo:8080/Zubair7248/724848/245967
-#EXTINF: -1 tvg-name="BD: TRAVELXP BANGLA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="BANGLADESH", BD: TRAVELXP BANGLA
+#EXTINF: -1 tvg-name="BD: TRAVELXP BANGLA" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", BD: TRAVELXP BANGLA
 http://xtv.ooo:8080/Zubair7248/724848/245968
-#EXTINF: -1 tvg-name="BD: CHANNEL 24" tvg-logo="https://bdtv.live/assets/images/channel24.jpg" group-title="BANGLADESH", BD: CHANNEL 24
+#EXTINF: -1 tvg-name="BD: CHANNEL 24" tvg-logo="https://bdtv.live/assets/images/channel24.jpg" group-title="OPPLEX | BANGLA (UNCHECKED)", BD: CHANNEL 24
 http://xtv.ooo:8080/Zubair7248/724848/245969
-#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0EYgh_4akE3uKy_mIVdGGuRtjuM9BZSkArTnuUsipjor4WMVPHPgZicy766xtH1dctk&usqp=CAU" group-title="BANGLADESH", SONY AATH
+#EXTINF: -1 tvg-name="SONY AATH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0EYgh_4akE3uKy_mIVdGGuRtjuM9BZSkArTnuUsipjor4WMVPHPgZicy766xtH1dctk&usqp=CAU" group-title="OPPLEX | BANGLA (UNCHECKED)", SONY AATH
 http://xtv.ooo:8080/Zubair7248/724848/245989
-#EXTINF: -1 tvg-name="COLOR BANGLA CINEMA" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1646661310-1681199.png?v=4.1.1" group-title="BANGLADESH", COLOR BANGLA CINEMA
+#EXTINF: -1 tvg-name="COLOR BANGLA CINEMA" tvg-logo="https://akashdth.cdnhost.xyz/uploads/channels_images/1646661310-1681199.png?v=4.1.1" group-title="OPPLEX | BANGLA (UNCHECKED)", COLOR BANGLA CINEMA
 http://xtv.ooo:8080/Zubair7248/724848/245994
-#EXTINF: -1 tvg-name="01 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 01 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250346
-#EXTINF: -1 tvg-name="02 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 02 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250347
-#EXTINF: -1 tvg-name="03 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 03 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250348
-#EXTINF: -1 tvg-name="04 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 04 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250349
-#EXTINF: -1 tvg-name="05 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 05 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250350
-#EXTINF: -1 tvg-name="06 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 06 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250351
-#EXTINF: -1 tvg-name="07 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 07 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250352
-#EXTINF: -1 tvg-name="08 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 08 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250353
-#EXTINF: -1 tvg-name="09 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 09 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250354
-#EXTINF: -1 tvg-name="10 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 10 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250355
-#EXTINF: -1 tvg-name="11 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 11 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250356
-#EXTINF: -1 tvg-name="12 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 12 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250357
-#EXTINF: -1 tvg-name="13 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 13 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250358
-#EXTINF: -1 tvg-name="14 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 14 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/250359
-#EXTINF: -1 tvg-name="15 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 15 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251340
-#EXTINF: -1 tvg-name="16 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 16 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251341
-#EXTINF: -1 tvg-name="17 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 17 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251342
-#EXTINF: -1 tvg-name="18 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 18 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251343
-#EXTINF: -1 tvg-name="19 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 19 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251344
-#EXTINF: -1 tvg-name="20 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 20 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251345
-#EXTINF: -1 tvg-name="21 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 21 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251346
-#EXTINF: -1 tvg-name="22 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 22 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251347
-#EXTINF: -1 tvg-name="23 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 23 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251348
-#EXTINF: -1 tvg-name="24 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 24 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251349
-#EXTINF: -1 tvg-name="25 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 25 ***
-http://xtv.ooo:8080/Zubair7248/724848/251350
-#EXTINF: -1 tvg-name="26 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 26 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251351
-#EXTINF: -1 tvg-name="27 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 27 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251352
-#EXTINF: -1 tvg-name="28 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 28 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251353
-#EXTINF: -1 tvg-name="29 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 29 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251354
-#EXTINF: -1 tvg-name="30 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 30 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251561
-#EXTINF: -1 tvg-name="31 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 31 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251562
-#EXTINF: -1 tvg-name="32 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 32 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251563
-#EXTINF: -1 tvg-name="33 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 33 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251564
-#EXTINF: -1 tvg-name="34 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 34 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251565
-#EXTINF: -1 tvg-name="35 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 35 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251566
-#EXTINF: -1 tvg-name="36 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 36 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251567
-#EXTINF: -1 tvg-name="37 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 37 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251568
-#EXTINF: -1 tvg-name="38 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 38 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251569
-#EXTINF: -1 tvg-name="39 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 39 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251570
-#EXTINF: -1 tvg-name="40 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 40 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251571
-#EXTINF: -1 tvg-name="41 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 41 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251572
-#EXTINF: -1 tvg-name="42 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 42 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251573
-#EXTINF: -1 tvg-name="43 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 43 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251574
-#EXTINF: -1 tvg-name="44 BOLLYWOOD MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 44 BOLLYWOOD MOVIES 24/7
-http://xtv.ooo:8080/Zubair7248/724848/251575
-#EXTINF: -1 tvg-name="45 ***" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMOVIE247.png" group-title="24/7 BOLLYWOOD MOVIES", 45 ***
-http://xtv.ooo:8080/Zubair7248/724848/251576
-#EXTINF: -1 tvg-name="Playlist 01" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 01
-http://xtv.ooo:8080/Zubair7248/724848/268058
-#EXTINF: -1 tvg-name="Playlist 02" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 02
-http://xtv.ooo:8080/Zubair7248/724848/268065
-#EXTINF: -1 tvg-name="Playlist 03" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 03
-http://xtv.ooo:8080/Zubair7248/724848/270488
-#EXTINF: -1 tvg-name="Playlist 04" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 04
-http://xtv.ooo:8080/Zubair7248/724848/270489
-#EXTINF: -1 tvg-name="Playlist 05" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 05
-http://xtv.ooo:8080/Zubair7248/724848/270490
-#EXTINF: -1 tvg-name="Playlist 06" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 06
-http://xtv.ooo:8080/Zubair7248/724848/270491
-#EXTINF: -1 tvg-name="Playlist 07" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 07
-http://xtv.ooo:8080/Zubair7248/724848/270492
-#EXTINF: -1 tvg-name="Playlist 08" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 08
-http://xtv.ooo:8080/Zubair7248/724848/270493
-#EXTINF: -1 tvg-name="Playlist 09" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 09
-http://xtv.ooo:8080/Zubair7248/724848/270494
-#EXTINF: -1 tvg-name="Playlist 10" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 10
-http://xtv.ooo:8080/Zubair7248/724848/270495
-#EXTINF: -1 tvg-name="Playlist 11" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 11
-http://xtv.ooo:8080/Zubair7248/724848/270496
-#EXTINF: -1 tvg-name="Playlist 12" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 12
-http://xtv.ooo:8080/Zubair7248/724848/270497
-#EXTINF: -1 tvg-name="Playlist 13" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 13
-http://xtv.ooo:8080/Zubair7248/724848/270498
-#EXTINF: -1 tvg-name="Playlist 14" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 14
-http://xtv.ooo:8080/Zubair7248/724848/270499
-#EXTINF: -1 tvg-name="Playlist 15" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 15
-http://xtv.ooo:8080/Zubair7248/724848/270500
-#EXTINF: -1 tvg-name="Playlist 16" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 16
-http://xtv.ooo:8080/Zubair7248/724848/270501
-#EXTINF: -1 tvg-name="Playlist 17" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 17
-http://xtv.ooo:8080/Zubair7248/724848/270502
-#EXTINF: -1 tvg-name="Playlist 18" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 18
-http://xtv.ooo:8080/Zubair7248/724848/362841
-#EXTINF: -1 tvg-name="Playlist 19" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 19
-http://xtv.ooo:8080/Zubair7248/724848/362842
-#EXTINF: -1 tvg-name="Playlist 20" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 20
-http://xtv.ooo:8080/Zubair7248/724848/362843
-#EXTINF: -1 tvg-name="Playlist 21" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODMUSIC247.png" group-title="24/7 BOLLYWOOD MUSIC", Playlist 21
-http://xtv.ooo:8080/Zubair7248/724848/362844
-#EXTINF: -1 tvg-name="01 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 01 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/341039
-#EXTINF: -1 tvg-name="02 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 02 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/341040
-#EXTINF: -1 tvg-name="03 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 03 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/341041
-#EXTINF: -1 tvg-name="04 BLOCKBUSTER COMEDY" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 04 BLOCKBUSTER COMEDY
-http://xtv.ooo:8080/Zubair7248/724848/341042
-#EXTINF: -1 tvg-name="05 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 05 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/341043
-#EXTINF: -1 tvg-name="06 BLOCKBUSTER CLASSIC" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 06 BLOCKBUSTER CLASSIC
-http://xtv.ooo:8080/Zubair7248/724848/341329
-#EXTINF: -1 tvg-name="07 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 07 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/362983
-#EXTINF: -1 tvg-name="08 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 08 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/362984
-#EXTINF: -1 tvg-name="09 BLOCKBUSTER" tvg-logo="http://logo.opplextv.com/logo/BOLLYWOODBLOCKBUSTER247.png" group-title="24/7 BLOCKBUSTER MOVIES", 09 BLOCKBUSTER
-http://xtv.ooo:8080/Zubair7248/724848/362985
-#EXTINF: -1 tvg-name="01 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 01 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/263421
-#EXTINF: -1 tvg-name="02 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 02 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268020
-#EXTINF: -1 tvg-name="03 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 03 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268021
-#EXTINF: -1 tvg-name="04 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 04 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268022
-#EXTINF: -1 tvg-name="05 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 05 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268023
-#EXTINF: -1 tvg-name="06 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 06 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268024
-#EXTINF: -1 tvg-name="07 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 07 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268025
-#EXTINF: -1 tvg-name="08 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 08 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268026
-#EXTINF: -1 tvg-name="09 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 09 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268027
-#EXTINF: -1 tvg-name="10 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 10 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268028
-#EXTINF: -1 tvg-name="11 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 11 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268029
-#EXTINF: -1 tvg-name="12 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 12 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268030
-#EXTINF: -1 tvg-name="13 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 13 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268031
-#EXTINF: -1 tvg-name="14 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 14 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268032
-#EXTINF: -1 tvg-name="15 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 15 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268033
-#EXTINF: -1 tvg-name="16 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 16 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268034
-#EXTINF: -1 tvg-name="17 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 17 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268035
-#EXTINF: -1 tvg-name="18 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 18 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268036
-#EXTINF: -1 tvg-name="19 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 19 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268037
-#EXTINF: -1 tvg-name="20 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 20 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268038
-#EXTINF: -1 tvg-name="21 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 21 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268039
-#EXTINF: -1 tvg-name="22 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 22 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268040
-#EXTINF: -1 tvg-name="23 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 23 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268041
-#EXTINF: -1 tvg-name="24 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 24 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268042
-#EXTINF: -1 tvg-name="25 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 25 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268043
-#EXTINF: -1 tvg-name="26 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 26 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268044
-#EXTINF: -1 tvg-name="27 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 27 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268045
-#EXTINF: -1 tvg-name="28 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 28 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268046
-#EXTINF: -1 tvg-name="29 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 29 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268047
-#EXTINF: -1 tvg-name="30 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 30 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268048
-#EXTINF: -1 tvg-name="31 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 31 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268049
-#EXTINF: -1 tvg-name="32 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 32 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268050
-#EXTINF: -1 tvg-name="33 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 33 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268051
-#EXTINF: -1 tvg-name="34 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 34 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268052
-#EXTINF: -1 tvg-name="35 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 35 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268053
-#EXTINF: -1 tvg-name="36 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 36 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268054
-#EXTINF: -1 tvg-name="37 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 37 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268055
-#EXTINF: -1 tvg-name="38 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 38 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268056
-#EXTINF: -1 tvg-name="39 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 39 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/268057
-#EXTINF: -1 tvg-name="40 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 40 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362990
-#EXTINF: -1 tvg-name="41 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 41 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362991
-#EXTINF: -1 tvg-name="42 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 42 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362992
-#EXTINF: -1 tvg-name="43 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 43 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362993
-#EXTINF: -1 tvg-name="44 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 44 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362994
-#EXTINF: -1 tvg-name="45 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 45 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362995
-#EXTINF: -1 tvg-name="46 HOLLYWOOD HINDI DUBBED 24/7" tvg-logo="http://logo.opplextv.com/logo/HOLLYWOODHINDIDUBBED247.png" group-title="24/7 HOLLYWOOD HINDI DUBBED MOVIES", 46 HOLLYWOOD HINDI DUBBED 24/7
-http://xtv.ooo:8080/Zubair7248/724848/362996
-#EXTINF: -1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="USA ➾ Movie", •●★--- Welcome ----★●•
-http://xtv.ooo:8080/Zubair7248/724848/346538
-#EXTINF: -1 tvg-name="US: 5 Star max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/baf3134105f2ba7e681080651ebac729.png" group-title="USA ➾ Movie", US: 5 Star max
-http://xtv.ooo:8080/Zubair7248/724848/346539
-#EXTINF: -1 tvg-name="US: ActionMax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d8eb5f96e6d74065d1d5d3d1371e43fd.png" group-title="USA ➾ Movie", US: ActionMax
-http://xtv.ooo:8080/Zubair7248/724848/346540
-#EXTINF: -1 tvg-name="US: AMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5bb3f9aa12c2cba0aa25e490840e57ba.png" group-title="USA ➾ Movie", US: AMC
-http://xtv.ooo:8080/Zubair7248/724848/346541
-#EXTINF: -1 tvg-name="US: Bravo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c2159c07b7e7e558c2e9bef766df71c6.png" group-title="USA ➾ Movie", US: Bravo
-http://xtv.ooo:8080/Zubair7248/724848/346542
-#EXTINF: -1 tvg-name="US: Buzzr" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1ca3be8700d967a30fda3dfb823c6baf.png" group-title="USA ➾ Movie", US: Buzzr
-http://xtv.ooo:8080/Zubair7248/724848/346543
-#EXTINF: -1 tvg-name="US: Cine Life" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/10994c26a1a6817228a4a5cee626740f.webp" group-title="USA ➾ Movie", US: Cine Life
-http://xtv.ooo:8080/Zubair7248/724848/346544
-#EXTINF: -1 tvg-name="US: CMT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/51183f92d3c9f7f237251191558264e6.png" group-title="USA ➾ Movie", US: CMT
-http://xtv.ooo:8080/Zubair7248/724848/346545
-#EXTINF: -1 tvg-name="US: Comedy Central" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/21ce2e8a7702b1079957fbf5fcf9bd38.png" group-title="USA ➾ Movie", US: Comedy Central
-http://xtv.ooo:8080/Zubair7248/724848/346546
-#EXTINF: -1 tvg-name="US: Comet" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/522dcffba02379c064ec85f72c8e4cd5.png" group-title="USA ➾ Movie", US: Comet
-http://xtv.ooo:8080/Zubair7248/724848/346547
-#EXTINF: -1 tvg-name="US: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dc24791d1b5fe7d11737e68b635f087d.png" group-title="USA ➾ Movie", US: Crime+ Investigation
-http://xtv.ooo:8080/Zubair7248/724848/346548
-#EXTINF: -1 tvg-name="US: Dove" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/bbfc32f773c010a055c108c74d3f8511.jpeg" group-title="USA ➾ Movie", US: Dove
-http://xtv.ooo:8080/Zubair7248/724848/346549
-#EXTINF: -1 tvg-name="US: E!" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d53336c85cead8784b05a5f0ceb581ff.png" group-title="USA ➾ Movie", US: E!
-http://xtv.ooo:8080/Zubair7248/724848/346550
-#EXTINF: -1 tvg-name="US: Epix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0569998418821ecce4929fe1057c8749.png" group-title="USA ➾ Movie", US: Epix
-http://xtv.ooo:8080/Zubair7248/724848/346551
-#EXTINF: -1 tvg-name="US: Epix 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8bd932dff55c15e19dd262dacb5312f3.png" group-title="USA ➾ Movie", US: Epix 2
-http://xtv.ooo:8080/Zubair7248/724848/346552
-#EXTINF: -1 tvg-name="US: Epix Drive In" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8280932ffc579846a2904f0a8af764c0.png" group-title="USA ➾ Movie", US: Epix Drive In
-http://xtv.ooo:8080/Zubair7248/724848/346553
-#EXTINF: -1 tvg-name="US: Epix Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/08b276db9c9a66bb2793a632e7ab0801.png" group-title="USA ➾ Movie", US: Epix Hits
-http://xtv.ooo:8080/Zubair7248/724848/346554
-#EXTINF: -1 tvg-name="US: Filmstream" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/859b08aabcfccbd24fe2a56b2344dea0.jpeg" group-title="USA ➾ Movie", US: Filmstream
-http://xtv.ooo:8080/Zubair7248/724848/346555
-#EXTINF: -1 tvg-name="US: Folk TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/6d4d9398798e17c19fdee8faae5e0027.png" group-title="USA ➾ Movie", US: Folk TV
-http://xtv.ooo:8080/Zubair7248/724848/346556
-#EXTINF: -1 tvg-name="US: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e1f7476fbe35270653143a6a21389a85.png" group-title="USA ➾ Movie", US: FX
-http://xtv.ooo:8080/Zubair7248/724848/346557
-#EXTINF: -1 tvg-name="US: FX Movie Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef8054c816acf6206e7a8287af61f43b.png" group-title="USA ➾ Movie", US: FX Movie Channel
-http://xtv.ooo:8080/Zubair7248/724848/346558
-#EXTINF: -1 tvg-name="US: FXM Retro" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f959d31a8383b988aa09693a30a68f96.jpg" group-title="USA ➾ Movie", US: FXM Retro
-http://xtv.ooo:8080/Zubair7248/724848/346559
-#EXTINF: -1 tvg-name="US: FXX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0cf4f7d3c0bfe1900e79a952e11147aa.png" group-title="USA ➾ Movie", US: FXX
-http://xtv.ooo:8080/Zubair7248/724848/346560
-#EXTINF: -1 tvg-name="US: GAC Family" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/82093475f229278c34bb85f394522e95.svg" group-title="USA ➾ Movie", US: GAC Family
-http://xtv.ooo:8080/Zubair7248/724848/346561
-#EXTINF: -1 tvg-name="US: Gravitas Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5ae9b59f43fe97054b01bf6701d69b85.jpeg" group-title="USA ➾ Movie", US: Gravitas Movies
-http://xtv.ooo:8080/Zubair7248/724848/346562
-#EXTINF: -1 tvg-name="US: Grit" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a33e5715cf763a606780628bb8e8b930.png" group-title="USA ➾ Movie", US: Grit
-http://xtv.ooo:8080/Zubair7248/724848/346563
-#EXTINF: -1 tvg-name="US: Hallmark Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9d4f141d9697ce3e5bff43e3e5dce90d.png" group-title="USA ➾ Movie", US: Hallmark Channel
-http://xtv.ooo:8080/Zubair7248/724848/346564
-#EXTINF: -1 tvg-name="US: Hallmark Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5eded609bcc764818c14afca017ad2ce.png" group-title="USA ➾ Movie", US: Hallmark Drama
-http://xtv.ooo:8080/Zubair7248/724848/346565
-#EXTINF: -1 tvg-name="US: Hallmark Movies & Mysteries" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/abc75ec2e23ebd708295d28c4a78404b.png" group-title="USA ➾ Movie", US: Hallmark Movies & Mysteries
-http://xtv.ooo:8080/Zubair7248/724848/346566
-#EXTINF: -1 tvg-name="US: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="USA ➾ Movie", US: HBO
-http://xtv.ooo:8080/Zubair7248/724848/346567
-#EXTINF: -1 tvg-name="US: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="USA ➾ Movie", US: HBO 2
-http://xtv.ooo:8080/Zubair7248/724848/346568
-#EXTINF: -1 tvg-name="US: HBO Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="USA ➾ Movie", US: HBO Comedy
-http://xtv.ooo:8080/Zubair7248/724848/346569
-#EXTINF: -1 tvg-name="US: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="USA ➾ Movie", US: HBO Family
-http://xtv.ooo:8080/Zubair7248/724848/346570
-#EXTINF: -1 tvg-name="US: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="USA ➾ Movie", US: HBO Signature
-http://xtv.ooo:8080/Zubair7248/724848/346571
-#EXTINF: -1 tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA ➾ Movie", US: HBO Zone
-http://xtv.ooo:8080/Zubair7248/724848/346572
-#EXTINF: -1 tvg-name="US: HDNet Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/8bbe5654f1224356456b7ae7d20d2846.png" group-title="USA ➾ Movie", US: HDNet Movies
-http://xtv.ooo:8080/Zubair7248/724848/346573
-#EXTINF: -1 tvg-name="US: Heros & Icons TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/249f5363191673ec8a642a343894a641.png" group-title="USA ➾ Movie", US: Heros & Icons TV
-http://xtv.ooo:8080/Zubair7248/724848/346574
-#EXTINF: -1 tvg-name="US: IFC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3979eea600fff61422e88e89e2c9be7a.png" group-title="USA ➾ Movie", US: IFC
-http://xtv.ooo:8080/Zubair7248/724848/346575
-#EXTINF: -1 tvg-name="US: INSP" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/9b6c5c828fa60ad8691c0ed494be2159.png" group-title="USA ➾ Movie", US: INSP
-http://xtv.ooo:8080/Zubair7248/724848/346576
-#EXTINF: -1 tvg-name="US: Laff" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/16966b607ee4892dccf82776a10c6d43.png" group-title="USA ➾ Movie", US: Laff
-http://xtv.ooo:8080/Zubair7248/724848/346577
-#EXTINF: -1 tvg-name="US: Lifetime Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/378d493432655ace7636a9c9f16d3ede.png" group-title="USA ➾ Movie", US: Lifetime Movies
-http://xtv.ooo:8080/Zubair7248/724848/346578
-#EXTINF: -1 tvg-name="US: Logo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/166b30c3e10438645218c7be7e1dcaed.png" group-title="USA ➾ Movie", US: Logo
-http://xtv.ooo:8080/Zubair7248/724848/346579
-#EXTINF: -1 tvg-name="US: MoreMax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c0db2dd46d60b48418ec3299d65ddd.png" group-title="USA ➾ Movie", US: MoreMax
-http://xtv.ooo:8080/Zubair7248/724848/346580
-#EXTINF: -1 tvg-name="US: MovieMax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb1fdc8f53f95cb4e59f2458bc311404.png" group-title="USA ➾ Movie", US: MovieMax
-http://xtv.ooo:8080/Zubair7248/724848/346581
-#EXTINF: -1 tvg-name="US: MoviePlex" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d7f2afa066c3d8e643874ece3de5047.png" group-title="USA ➾ Movie", US: MoviePlex
-http://xtv.ooo:8080/Zubair7248/724848/346582
-#EXTINF: -1 tvg-name="US: MTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5aa556bace610c8bc65e10e0822995b8.png" group-title="USA ➾ Movie", US: MTV 2
-http://xtv.ooo:8080/Zubair7248/724848/346583
-#EXTINF: -1 tvg-name="US: OuterMax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/88e8f809969db1216e3ff935d90202a4.png" group-title="USA ➾ Movie", US: OuterMax
-http://xtv.ooo:8080/Zubair7248/724848/346584
-#EXTINF: -1 tvg-name="US: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9a0cc4b0651789317273bd108332ef94.jpg" group-title="USA ➾ Movie", US: Paramount Network
-http://xtv.ooo:8080/Zubair7248/724848/346585
-#EXTINF: -1 tvg-name="US: PBS America" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5cb49f0f2b4a41c7f617fb3f83702d62.png" group-title="USA ➾ Movie", US: PBS America
-http://xtv.ooo:8080/Zubair7248/724848/346586
-#EXTINF: -1 tvg-name="US: RetroPlex" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c05111ed0c303d92a6b410a9719fba5.png" group-title="USA ➾ Movie", US: RetroPlex
-http://xtv.ooo:8080/Zubair7248/724848/346587
-#EXTINF: -1 tvg-name="US: Shorts TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/daf06bc3f7a6703f425122ac102cb70a.png" group-title="USA ➾ Movie", US: Shorts TV
-http://xtv.ooo:8080/Zubair7248/724848/346588
-#EXTINF: -1 tvg-name="US: Showtime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb167150b4e17479be89ab93490bd3f2.png" group-title="USA ➾ Movie", US: Showtime
-http://xtv.ooo:8080/Zubair7248/724848/346589
-#EXTINF: -1 tvg-name="US: Showtime 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7241d26952589668a7a2ea3017f3b4fa.png" group-title="USA ➾ Movie", US: Showtime 2
-http://xtv.ooo:8080/Zubair7248/724848/346590
-#EXTINF: -1 tvg-name="US: Showtime Extreme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91d1636d38818d7397f8c2f1cd44790d.png" group-title="USA ➾ Movie", US: Showtime Extreme
-http://xtv.ooo:8080/Zubair7248/724848/346591
-#EXTINF: -1 tvg-name="US: Showtime Family Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c4f0b00a93b31f60ee2c0bb87de2d7f.png" group-title="USA ➾ Movie", US: Showtime Family Zone
-http://xtv.ooo:8080/Zubair7248/724848/346592
-#EXTINF: -1 tvg-name="US: Showtime Next" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fa0301625b9f9cfacdd39e05b215e1d.png" group-title="USA ➾ Movie", US: Showtime Next
-http://xtv.ooo:8080/Zubair7248/724848/346593
-#EXTINF: -1 tvg-name="US: Showtime Showcase" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f3f5c8d05f9dadbdc79167f264fb8dd.png" group-title="USA ➾ Movie", US: Showtime Showcase
-http://xtv.ooo:8080/Zubair7248/724848/346594
-#EXTINF: -1 tvg-name="US: Showtime Women" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a11b929eeedadbcc4fd21be32e5a3f2.png" group-title="USA ➾ Movie", US: Showtime Women
-http://xtv.ooo:8080/Zubair7248/724848/346595
-#EXTINF: -1 tvg-name="US: Sony Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a99e4e6b0b4ca220ce21f483b3c4e4a.png" group-title="USA ➾ Movie", US: Sony Movies
-http://xtv.ooo:8080/Zubair7248/724848/346596
-#EXTINF: -1 tvg-name="US: Starz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4bf8db70bda5c987a510f9e3666f3094.png" group-title="USA ➾ Movie", US: Starz
-http://xtv.ooo:8080/Zubair7248/724848/346597
-#EXTINF: -1 tvg-name="US: Starz Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4b96c7068312d06a011d2b3f3fd42c6.png" group-title="USA ➾ Movie", US: Starz Cinema
-http://xtv.ooo:8080/Zubair7248/724848/346598
-#EXTINF: -1 tvg-name="US: Starz Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5422f0653ef91c2b40f4c6e2e2fc211a.png" group-title="USA ➾ Movie", US: Starz Comedy
-http://xtv.ooo:8080/Zubair7248/724848/346599
-#EXTINF: -1 tvg-name="US: Starz East" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a26b5b34b44800918a9340077f64c4c.png" group-title="USA ➾ Movie", US: Starz East
-http://xtv.ooo:8080/Zubair7248/724848/346600
-#EXTINF: -1 tvg-name="US: Starz Edge" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/70e67775b3c927a8057302f038b6597e.png" group-title="USA ➾ Movie", US: Starz Edge
-http://xtv.ooo:8080/Zubair7248/724848/346601
-#EXTINF: -1 tvg-name="US: Starz Encore" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png" group-title="USA ➾ Movie", US: Starz Encore
-http://xtv.ooo:8080/Zubair7248/724848/346602
-#EXTINF: -1 tvg-name="US: Starz Encore Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f222f053df5e604b3279b4af49b7cdb8.png" group-title="USA ➾ Movie", US: Starz Encore Action
-http://xtv.ooo:8080/Zubair7248/724848/346603
-#EXTINF: -1 tvg-name="US: Starz Encore Black" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d7a5651fb932666fbda235bcd4c170a.png" group-title="USA ➾ Movie", US: Starz Encore Black
-http://xtv.ooo:8080/Zubair7248/724848/346604
-#EXTINF: -1 tvg-name="US: Starz Encore Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/559f4fb0af29a03deca927884af5cbcd.png" group-title="USA ➾ Movie", US: Starz Encore Classic
-http://xtv.ooo:8080/Zubair7248/724848/346605
-#EXTINF: -1 tvg-name="US: Starz Encore Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/28d8a8f01bf2f8a69cabc1d18ec038a5.png" group-title="USA ➾ Movie", US: Starz Encore Family
-http://xtv.ooo:8080/Zubair7248/724848/346606
-#EXTINF: -1 tvg-name="US: Starz Encore Suspense" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a8169950956b2a6700f5242f65221ae.png" group-title="USA ➾ Movie", US: Starz Encore Suspense
-http://xtv.ooo:8080/Zubair7248/724848/346607
-#EXTINF: -1 tvg-name="US: Starz Encore Western" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8c35fa692a3d2cff932d795d4188ff4e.png" group-title="USA ➾ Movie", US: Starz Encore Western
-http://xtv.ooo:8080/Zubair7248/724848/346608
-#EXTINF: -1 tvg-name="US: Starz In Black" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9f075c5da147ffa228619f569ed00d3.png" group-title="USA ➾ Movie", US: Starz In Black
-http://xtv.ooo:8080/Zubair7248/724848/346609
-#EXTINF: -1 tvg-name="US: Starz In Black West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/60d9e9dedfaa1ebe0011aaa14586bbe9.png" group-title="USA ➾ Movie", US: Starz In Black West
-http://xtv.ooo:8080/Zubair7248/724848/346610
-#EXTINF: -1 tvg-name="US: Starz Kids & Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png" group-title="USA ➾ Movie", US: Starz Kids & Family
-http://xtv.ooo:8080/Zubair7248/724848/346611
-#EXTINF: -1 tvg-name="US: SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/64d18b42b9cc49a55ea3f8898f7d0799.png" group-title="USA ➾ Movie", US: SYFY
-http://xtv.ooo:8080/Zubair7248/724848/346612
-#EXTINF: -1 tvg-name="US: TBS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3e82e33428e9c5bc0a0bdf19957d3d73.png" group-title="USA ➾ Movie", US: TBS
-http://xtv.ooo:8080/Zubair7248/724848/346613
-#EXTINF: -1 tvg-name="US: TCM Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/451bc642eea9c50d9dd697b5224093ee.png" group-title="USA ➾ Movie", US: TCM Movies
-http://xtv.ooo:8080/Zubair7248/724848/346614
-#EXTINF: -1 tvg-name="US: The Film Detective" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b1b4fb62c5a8f1662f23d07819f2fbaa.png" group-title="USA ➾ Movie", US: The Film Detective
-http://xtv.ooo:8080/Zubair7248/724848/346615
-#EXTINF: -1 tvg-name="US: The Movie Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b6212379aa668a5f9138e273347a471d.png" group-title="USA ➾ Movie", US: The Movie Channel
-http://xtv.ooo:8080/Zubair7248/724848/346616
-#EXTINF: -1 tvg-name="US: The Preview Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c3412343dcf6851bc1a322849070f400.png" group-title="USA ➾ Movie", US: The Preview Channel
-http://xtv.ooo:8080/Zubair7248/724848/346617
-#EXTINF: -1 tvg-name="US: ThrillerMax" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9022ee496dce7e3fd1862887067e7f65.png" group-title="USA ➾ Movie", US: ThrillerMax
-http://xtv.ooo:8080/Zubair7248/724848/346618
-#EXTINF: -1 tvg-name="US: TNT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d99a1bcbe12391bfda85b19f1a13268.png" group-title="USA ➾ Movie", US: TNT
-http://xtv.ooo:8080/Zubair7248/724848/346619
-#EXTINF: -1 tvg-name="US: TV Land" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3aa20b9a9cfc9f5694b4f3946cab6d1c.png" group-title="USA ➾ Movie", US: TV Land
-http://xtv.ooo:8080/Zubair7248/724848/346620
-#EXTINF: -1 tvg-name="US: Universal Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/241d1dabdd405409c5d12a9c7021fbd9.png" group-title="USA ➾ Movie", US: Universal Premiere
-http://xtv.ooo:8080/Zubair7248/724848/346621
-#EXTINF: -1 tvg-name="US: USA Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/00667b88498f63e36154ccb82c05a561.png" group-title="USA ➾ Movie", US: USA Network
-http://xtv.ooo:8080/Zubair7248/724848/346622
-#EXTINF: -1 tvg-name="US: We TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8c8ea3f9f6d4ae957097d9c7a17027bb.png" group-title="USA ➾ Movie", US: We TV
-http://xtv.ooo:8080/Zubair7248/724848/346623
-#EXTINF: -1 tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="USA ➾ Music", •●★--- Welcome ----★●•
-http://xtv.ooo:8080/Zubair7248/724848/346624
-#EXTINF: -1 tvg-name="US: California Music Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4ebccbafa457afb595a63da26eb03451.gif" group-title="USA ➾ Music", US: California Music Channel
-http://xtv.ooo:8080/Zubair7248/724848/346625
-#EXTINF: -1 tvg-name="US: Club MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/394e113f22fee6021c7b600eacc12a07.png" group-title="USA ➾ Music", US: Club MTV
-http://xtv.ooo:8080/Zubair7248/724848/346626
-#EXTINF: -1 tvg-name="US: CMC USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7083cf4b25d03051d231876e2202ce92.gif" group-title="USA ➾ Music", US: CMC USA
-http://xtv.ooo:8080/Zubair7248/724848/346627
-#EXTINF: -1 tvg-name="US: MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/928b1bb2310329b7809241d92fc30061.png" group-title="USA ➾ Music", US: MTV
-http://xtv.ooo:8080/Zubair7248/724848/346628
-#EXTINF: -1 tvg-name="US: MTV 00s" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/09cc4c6c30d46d10fc0f05137b9203ed.png" group-title="USA ➾ Music", US: MTV 00s
-http://xtv.ooo:8080/Zubair7248/724848/346629
-#EXTINF: -1 tvg-name="US: MTV 80s" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/5d835a17ef8e354c192ac4cb508786b2.png" group-title="USA ➾ Music", US: MTV 80s
-http://xtv.ooo:8080/Zubair7248/724848/346630
-#EXTINF: -1 tvg-name="US: MTV 90s" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d4becbed0d461d8dc25ae62ea473f97.png" group-title="USA ➾ Music", US: MTV 90s
-http://xtv.ooo:8080/Zubair7248/724848/346631
-#EXTINF: -1 tvg-name="US: MTV Base Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/7c42b1e9f22d73b359a8626337fc42d3.jpg" group-title="USA ➾ Music", US: MTV Base Africa
-http://xtv.ooo:8080/Zubair7248/724848/346632
-#EXTINF: -1 tvg-name="US: MTV Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png" group-title="USA ➾ Music", US: MTV Classic
-http://xtv.ooo:8080/Zubair7248/724848/346633
-#EXTINF: -1 tvg-id="mtvhits.uk" tvg-name="US: MTV Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b8a13ece3e61f706b0ba8b65784a39df.png" group-title="USA ➾ Music", US: MTV Hits
-http://xtv.ooo:8080/Zubair7248/724848/346634
-#EXTINF: -1 tvg-name="US: MTV Hits Latin America" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/8a094477f290cd6d46ae02decdc98371.png" group-title="USA ➾ Music", US: MTV Hits Latin America
-http://xtv.ooo:8080/Zubair7248/724848/346635
-#EXTINF: -1 tvg-name="US: MTV Live" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/2bd71aa02833d403385d52f26700f74b.png" group-title="USA ➾ Music", US: MTV Live
-http://xtv.ooo:8080/Zubair7248/724848/346636
-#EXTINF: -1 tvg-name="US: MTV Live USA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2fd03b160cbd6cf993329d6be134c42b.png" group-title="USA ➾ Music", US: MTV Live USA
-http://xtv.ooo:8080/Zubair7248/724848/346637
-#EXTINF: -1 tvg-name="US: MTV Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/25f525cd39cb74256e83a6ae72dc58aa.jpg" group-title="USA ➾ Music", US: MTV Music
-http://xtv.ooo:8080/Zubair7248/724848/346638
-#EXTINF: -1 tvg-name="US: MTV U" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2715ca9ae65a9c212b299d9a70a23006.png" group-title="USA ➾ Music", US: MTV U
-http://xtv.ooo:8080/Zubair7248/724848/346639
-#EXTINF: -1 tvg-name="US: Music Choice Classic Alternative" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2b3f0bf29144b4fd6a83ab9e69ab5a8.png" group-title="USA ➾ Music", US: Music Choice Classic Alternative
-http://xtv.ooo:8080/Zubair7248/724848/346640
-#EXTINF: -1 tvg-name="US: Music Choice Dance EDM" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/617a974c5c2eed0f619ae314bbc9df71.png" group-title="USA ➾ Music", US: Music Choice Dance EDM
-http://xtv.ooo:8080/Zubair7248/724848/346641
-#EXTINF: -1 tvg-name="US: Music Choice Hip Hop & R&B" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9ee50880b97a71a3a3d42697aa7bc9ec.png" group-title="USA ➾ Music", US: Music Choice Hip Hop & R&B
-http://xtv.ooo:8080/Zubair7248/724848/346642
-#EXTINF: -1 tvg-name="US: Music Choice Hit List" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/394ef70a4ee58bcbe2c00fc7d250ff61.png" group-title="USA ➾ Music", US: Music Choice Hit List
-http://xtv.ooo:8080/Zubair7248/724848/346643
-#EXTINF: -1 tvg-name="US: Music Choice Indie" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/815edb7973e1931d407104b75ab24c2b.png" group-title="USA ➾ Music", US: Music Choice Indie
-http://xtv.ooo:8080/Zubair7248/724848/346644
-#EXTINF: -1 tvg-name="US: Music Choice Kidz Bop" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d92cc1ca67062af980ce1e8ac07f324c.png" group-title="USA ➾ Music", US: Music Choice Kidz Bop
-http://xtv.ooo:8080/Zubair7248/724848/346645
-#EXTINF: -1 tvg-name="US: Music Choice Kidz Only" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7c59b921b8d74243f201fa2b14299666.png" group-title="USA ➾ Music", US: Music Choice Kidz Only
-http://xtv.ooo:8080/Zubair7248/724848/346646
-#EXTINF: -1 tvg-name="US: Music Choice Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/1d6f4131be3b16b47e4e6b53047e8caf.png" group-title="USA ➾ Music", US: Music Choice Max
-http://xtv.ooo:8080/Zubair7248/724848/346647
-#EXTINF: -1 tvg-name="US: Music Choice Mexican" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/347482c13b2afab5c72938bfaf9e26cb.png" group-title="USA ➾ Music", US: Music Choice Mexican
-http://xtv.ooo:8080/Zubair7248/724848/346648
-#EXTINF: -1 tvg-name="US: Music Choice Musica URBANa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a81782b7e17a77bd5dfb7a59d5517e77.png" group-title="USA ➾ Music", US: Music Choice Musica URBANa
-http://xtv.ooo:8080/Zubair7248/724848/346649
-#EXTINF: -1 tvg-name="US: Music Choice Pop & Country" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a530d791514915cd72288b06ff5bc567.png" group-title="USA ➾ Music", US: Music Choice Pop & Country
-http://xtv.ooo:8080/Zubair7248/724848/346650
-#EXTINF: -1 tvg-name="US: Music Choice Pop Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/86eab495da97353a2c504a8c4d925890.png" group-title="USA ➾ Music", US: Music Choice Pop Hits
-http://xtv.ooo:8080/Zubair7248/724848/346651
-#EXTINF: -1 tvg-name="US: Music Choice Pop Latino" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93609fd6a423881a8471115065a35339.png" group-title="USA ➾ Music", US: Music Choice Pop Latino
-http://xtv.ooo:8080/Zubair7248/724848/346652
-#EXTINF: -1 tvg-name="US: Music Choice R&B Soul" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/898778637b66770861f9ed69baf653a3.png" group-title="USA ➾ Music", US: Music Choice R&B Soul
-http://xtv.ooo:8080/Zubair7248/724848/346653
-#EXTINF: -1 tvg-name="US: Music Choice Rap" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4171689670edd8e8a8884b61381d6676.png" group-title="USA ➾ Music", US: Music Choice Rap
-http://xtv.ooo:8080/Zubair7248/724848/346654
-#EXTINF: -1 tvg-name="US: Music Choice Teen Beats" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/38b1eade90d3fe9809b3369103ce8a4c.png" group-title="USA ➾ Music", US: Music Choice Teen Beats
-http://xtv.ooo:8080/Zubair7248/724848/346655
-#EXTINF: -1 tvg-name="US: Music Choice Throwback Jamz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6915ffa06dc1d8c66ae1dd128dd25aee.png" group-title="USA ➾ Music", US: Music Choice Throwback Jamz
-http://xtv.ooo:8080/Zubair7248/724848/346656
-#EXTINF: -1 tvg-name="US: Music Choice Todays Country" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bad35022f22293111d53b5951f8d2750.png" group-title="USA ➾ Music", US: Music Choice Todays Country
-http://xtv.ooo:8080/Zubair7248/724848/346657
-#EXTINF: -1 tvg-name="US: Music choice Toddler Tunes" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aac7053c470ca3d1e2dc2131f423784e.png" group-title="USA ➾ Music", US: Music choice Toddler Tunes
-http://xtv.ooo:8080/Zubair7248/724848/346658
-#EXTINF: -1 tvg-name="US: Music Choice Tropicales" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30e8277fa8034437c4c35811ec736902.png" group-title="USA ➾ Music", US: Music Choice Tropicales
-http://xtv.ooo:8080/Zubair7248/724848/346659
-#EXTINF: -1 tvg-name="US: Music Choice Y2K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d3ca100163c2fcfe065a186b2cf7e3ab.png" group-title="USA ➾ Music", US: Music Choice Y2K
-http://xtv.ooo:8080/Zubair7248/724848/346660
-#EXTINF: -1 tvg-name="US: Popstar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/ad15c4778dffb1d7c2959bf8f94af8f9.png" group-title="USA ➾ Music", US: Popstar TV
-http://xtv.ooo:8080/Zubair7248/724848/346661
-#EXTINF: -1 tvg-name="US: Radio U TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/34d3f8c0a91117eff148a31c6b9f2022.png" group-title="USA ➾ Music", US: Radio U TV
-http://xtv.ooo:8080/Zubair7248/724848/346662
-#EXTINF: -1 tvg-name="US: Retro Music TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/3d3ea365ca51a84fd61f4938546412b2.png" group-title="USA ➾ Music", US: Retro Music TV
-http://xtv.ooo:8080/Zubair7248/724848/346663
-#EXTINF: -1 tvg-name="US: Sundance TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd2e21d6615417c58ae1b772ef31bb2f.png" group-title="USA ➾ Music", US: Sundance TV
-http://xtv.ooo:8080/Zubair7248/724848/346664
-#EXTINF: -1 tvg-name="US: VH1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63de9a3f9cfadf2581aef9175381fe6e.png" group-title="USA ➾ Music", US: VH1
-http://xtv.ooo:8080/Zubair7248/724848/346665
 #EXTINF: -1 tvg-name="24/7 BIGG BOSS 17 FHD" tvg-logo="https://www.wikibiodata.com/wp-content/uploads/2023/10/Bigg-Boss-17.jpg" group-title="BIGG BOSS 24/7", 24/7 BIGG BOSS 17 FHD
 http://xtv.ooo:8080/Zubair7248/724848/356533
 #EXTINF: -1 tvg-name="24/7 BIGG BOSS 17" tvg-logo="https://www.wikibiodata.com/wp-content/uploads/2023/10/Bigg-Boss-17.jpg" group-title="BIGG BOSS 24/7", 24/7 BIGG BOSS 17
