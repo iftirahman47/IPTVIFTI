@@ -43,29 +43,7 @@ https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 9 (Fox501)
 http://sonyiptv.net:8080/1234567/1234567/247166
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 1
-https://freeiptv25.netlify.app/live/stream_1.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 2
-https://freeiptv25.netlify.app/live/stream_2.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 3
-https://freeiptv25.netlify.app/live/stream_3.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 4
-https://freeiptv25.netlify.app/live/stream_4.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 5
-https://freeiptv25.netlify.app/live/stream_5.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 6
-https://freeiptv25.netlify.app/live/stream_6.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 7
-https://freeiptv25.netlify.app/live/stream_7.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 8
-https://freeiptv25.netlify.app/live/stream_8.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 9
-https://freeiptv25.netlify.app/live/stream_9.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 10
-https://freeiptv25.netlify.app/live/stream_10.m3u8
-#EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 11
-https://freeiptv25.netlify.app/live/stream_11.m3u8
--------
+
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
 http://103.120.172.74:1040
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuyEnOgtWwBJE-_YGGf0MRtpfshuW9HfnjG2UlpFw8_EN_QizDHRrvaoT_&s=10",Star India
