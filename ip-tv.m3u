@@ -2,6 +2,12 @@
 
 #EXTINF:-1 group-title="Sports", Tsports
 https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
+#EXTINF:-1 group-title="Sports", AstroCricket
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8 
+#EXTINF:-1 group-title="Sports", Sky Sports
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8 
+#EXTINF:-1 group-title="Sports", S
+http://145.239.5.177:8080/567/index.m3u8 
 
 #EXTINF:-1 group-title="Freeiptv25 IPL 2024" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
