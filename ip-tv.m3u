@@ -3,45 +3,45 @@
 #EXTINF:-1 group-title="Sports", Tsports
 https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
 #EXTINF:-1 group-title="Sports", AstroCricket
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8 
 #EXTINF:-1 group-title="Sports", Sky Sports
-https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8 
 #EXTINF:-1 group-title="Sports", S
-http://145.239.5.177:8080/567/index.m3u8
+http://145.239.5.177:8080/567/index.m3u8 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports1) 1
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports1) 2
 http://watchindia.net:8880/live/83023/62335/2232.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports1) 3
 http://watchindia.net:8880/live/83023/62335/2456.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports1) 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports1) 4
 http://sonyiptv.net:8080/1234567/1234567/141872
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports2) 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports2) 1
 http://watchindia.net:8880/live/83023/62335/1069.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Star Sports2) 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports2) 2
 http://watchindia.net:8880/live/83023/62335/2163.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 2 (TSports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 2 (TSports)
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeipt25-IPL.png",IPL 2 (Tsports) 2
 http://sonyiptv.net:8080/1234567/1234567/250211
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 2 Willow Xtra
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 2 Willow Xtra
 http://sonyiptv.net:8080/1234567/1234567/250211
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 3 (Astro Cricket)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 3 (Astro Cricket)
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 1 (Super Sports) 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Super Sports) 1
 http://sonyiptv.net:8080/1234567/1234567/53044
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 4 (Super Sports) 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 4 (Super Sports) 2
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 5 (Sky Sports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 5 (Sky Sports)
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 6 (Star Sports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 6 (Star Sports)
 https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 7 (Star Sports Hindi)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 7 (Star Sports Hindi)
 https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 8 (4K)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 8 (4K)
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL 9 (Fox501)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 9 (Fox501)
 http://sonyiptv.net:8080/1234567/1234567/247166
 #EXTINF:-1 group-title="Freeiptv25 Live" tvg-logo="https://i.ibb.co/hLRxNfZ/Freeiptv25-Live.png",Live 1
 https://freeiptv25.netlify.app/live/stream_1.m3u8
@@ -444,7 +444,7 @@ https://livess.ncare.live/live-orgin/makkahtv.stream/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIF3Vr5sdKnGsleAylkepQn3TmyqEhM_sQA&usqp=CAU",IQRA BANGLA
 https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeiptv25-IPL.png",IPL Bangla
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL Bangla
 #http://b1g.ooo:80/live/Zaida/Zaida/5.ts
 https://vsd119.mycdn.me/hls/6440155810506.m3u8/sig/5x8WXf06zVc/expires/1713276270107/srcIp/103.25.248.237/urls/45.136.22.88/clientType/36/srcAg/CHROME_ANDROID/mid/7321294292938/6440155810506_high/index.m3u8?p
 #EXTINF:-1 group-title="RELIGIOUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNynmokGI8LYF_sQ8R87qoXWrsAZBzHzGlfw&usqp=CAU",Deen TV UK
