@@ -21,27 +21,27 @@ http://sonyiptv.net:8080/1234567/1234567/141872
 http://watchindia.net:8880/live/83023/62335/1069.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports2) 2
 http://watchindia.net:8880/live/83023/62335/2163.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 2 (TSports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (TSports)
 https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/RCffTbZ/Freeipt25-IPL.png",IPL 2 (Tsports) 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpgg",T20 WC (Tsports) 2
 http://sonyiptv.net:8080/1234567/1234567/250211
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 2 Willow Xtra
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC Willow Xtra
 http://sonyiptv.net:8080/1234567/1234567/250211
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 3 (Astro Cricket)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Astro Cricket)
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Super Sports) 1
 http://sonyiptv.net:8080/1234567/1234567/53044
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 4 (Super Sports) 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Super Sports) 2
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 5 (Sky Sports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Sky Sports)
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 6 (Star Sports)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports)
 https://cdn-1.bdiptv24.line.pm/live/Star1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 7 (Star Sports Hindi)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports Hindi)
 https://cdn-1.bdiptv24.line.pm/live/StarHindi/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 8 (4K)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (4K)
 https://cdn-1.bdiptv24.line.pm/live/Star4K/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",IPL 9 (Fox501)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Fox501)
 http://sonyiptv.net:8080/1234567/1234567/247166
 
 #EXTINF:-1 group-title="INDIA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVoQGUiVM6jB1R_8g7O19yGjq3wHt2tq7YFkEk6jpMq9M_GEcLTPQ2th4&s=10",Zee India
