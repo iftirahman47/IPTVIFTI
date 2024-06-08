@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports", Tsports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC Tsports
 https://cdn-1.bdiptv24.line.pm/live/Tsports/index.m3u8
-#EXTINF:-1 group-title="Sports", AstroCricket
+#E#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC AstroCricket
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8 
-#EXTINF:-1 group-title="Sports", Sky Sports
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC Sky Sports
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8 
-#EXTINF:-1 group-title="Sports", S
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC S Sports
 http://145.239.5.177:8080/567/index.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/2024_ICC_Men%E2%80%99s_T20_World_Cup_logo.jpg",T20 WC (Star Sports1) 1
